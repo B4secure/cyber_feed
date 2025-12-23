@@ -266,6 +266,17 @@ def main():
     dedup_file = DATA_DIR / f"google_news_dedup_{ts}_past{PAST_DAYS}d.xlsx"
     dedup_audit = DATA_DIR / f"google_news_dedup_audit_{ts}.xlsx"
 
+    def update_master_excel(new_df: pd.DataFrame, master_path: Path):
+    if master_path.exists():
+        old_df = pd.read_excel(master_path)
+        combined = pd.concat([old_df, new_df], ignore_index=True)
+    else:
+        combined = new_df.copy()
+
+    combined = combined.drop_duplicates(subset=["link"]).reset_index(drop=True)
+    combined.to_excel(master_path, index=False, engine="openpyxl")
+
+
     orig, cleaned = semantic_dedupe_csv(
         infile=str(raw_results_file),
         out_clean=str(dedup_file),
@@ -276,7 +287,7 @@ def main():
     # Always keep a stable single file for automation
     latest = DATA_DIR / "latest_ransomware_news.xlsx"
     df_final = pd.read_excel(dedup_file)
-    df_final.to_excel(latest, index=False, engine="openpyxl")
+    update_master_excel(df_final, latest)
     print(f"Updated latest file: {latest}")
 
 
@@ -292,6 +303,7 @@ if __name__ == "__main__":
 
 
 # %%
+
 
 
 
