@@ -266,7 +266,7 @@ def main():
     dedup_file = DATA_DIR / f"google_news_dedup_{ts}_past{PAST_DAYS}d.xlsx"
     dedup_audit = DATA_DIR / f"google_news_dedup_audit_{ts}.xlsx"
 
-    def update_master_excel(new_df: pd.DataFrame, master_path: Path):
+def update_master_excel(new_df: pd.DataFrame, master_path: Path):
     if master_path.exists():
         old_df = pd.read_excel(master_path)
         combined = pd.concat([old_df, new_df], ignore_index=True)
@@ -303,6 +303,7 @@ if __name__ == "__main__":
 
 
 # %%
+
 
 
 
