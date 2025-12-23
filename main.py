@@ -240,6 +240,17 @@ def semantic_dedupe_csv(infile: str, out_clean: str, out_audit: str,
     return len(df), len(df_clean)
 
 
+def update_master_excel(new_df: pd.DataFrame, master_path: Path):
+    if master_path.exists():
+        old_df = pd.read_excel(master_path)
+        combined = pd.concat([old_df, new_df], ignore_index=True)
+    else:
+        combined = new_df.copy()
+
+    combined = combined.drop_duplicates(subset=["link"]).reset_index(drop=True)
+    combined.to_excel(master_path, index=False, engine="openpyxl")
+
+
 def main():
     ts = datetime.now(timezone.utc).strftime("%d_%m%y_UTC")
 
@@ -256,26 +267,18 @@ def main():
     raw_results_file = DATA_DIR / f"google_news_raw_{ts}_past{PAST_DAYS}d.xlsx"
     audit_search_file = DATA_DIR / f"search_audit_{ts}.xlsx"
 
-    
-    results = results.apply(lambda s: s.dt.tz_localize(None) if hasattr(s, "dt") and getattr(s.dt, "tz", None) is not None else s)
+    results = results.apply(
+        lambda s: s.dt.tz_localize(None)
+        if hasattr(s, "dt") and getattr(s.dt, "tz", None) is not None
+        else s
+    )
 
-    results.to_excel(raw_results_file, index=False, engine = "openpyxl")
-    search_df.to_excel(audit_search_file, index=False, engine = "openpyxl")
+    results.to_excel(raw_results_file, index=False, engine="openpyxl")
+    search_df.to_excel(audit_search_file, index=False, engine="openpyxl")
 
     # Dedupe the raw file we just created
     dedup_file = DATA_DIR / f"google_news_dedup_{ts}_past{PAST_DAYS}d.xlsx"
     dedup_audit = DATA_DIR / f"google_news_dedup_audit_{ts}.xlsx"
-
-def update_master_excel(new_df: pd.DataFrame, master_path: Path):
-    if master_path.exists():
-        old_df = pd.read_excel(master_path)
-        combined = pd.concat([old_df, new_df], ignore_index=True)
-    else:
-        combined = new_df.copy()
-
-    combined = combined.drop_duplicates(subset=["link"]).reset_index(drop=True)
-    combined.to_excel(master_path, index=False, engine="openpyxl")
-
 
     orig, cleaned = semantic_dedupe_csv(
         infile=str(raw_results_file),
@@ -284,12 +287,12 @@ def update_master_excel(new_df: pd.DataFrame, master_path: Path):
         threshold=DUP_THRESHOLD,
         model_name=MODEL_NAME,
     )
-    # Always keep a stable single file for automation
+
+    # Update the stable file (append + global dedupe)
     latest = DATA_DIR / "latest_ransomware_news.xlsx"
     df_final = pd.read_excel(dedup_file)
     update_master_excel(df_final, latest)
     print(f"Updated latest file: {latest}")
-
 
     print(f"Saved raw:   {raw_results_file} | rows={len(results)}")
     print(f"Saved audit: {audit_search_file} | searches={len(search_df)}")
@@ -300,6 +303,7 @@ def update_master_excel(new_df: pd.DataFrame, master_path: Path):
 
 if __name__ == "__main__":
     main()
+
 
 
 # %%
