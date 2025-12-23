@@ -274,9 +274,10 @@ def main():
         model_name=MODEL_NAME,
     )
     # Always keep a stable single file for automation
-    latest = DATA_DIR / "latest_deduped.xlsx"
-    shutil.copyfile(dedup_file, latest)
-    print(f"Saved latest: {latest}")
+    latest = DATA_DIR / "latest_ransomware_news.xlsx"
+    df_final = pd.read_excel(dedup_file)
+    df_final.to_excel(latest, index=False, engine="openpyxl")
+    print(f"Updated latest file: {latest}")
 
 
     print(f"Saved raw:   {raw_results_file} | rows={len(results)}")
@@ -291,6 +292,7 @@ if __name__ == "__main__":
 
 
 # %%
+
 
 
 
