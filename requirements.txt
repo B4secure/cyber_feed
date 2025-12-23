@@ -1,0 +1,11 @@
+pandas
+numpy
+feedparser
+requests
+trafilatura
+rapidfuzz
+python-dateutil
+scikit-learn
+sentence-transformers
+torch
+openpyxl
