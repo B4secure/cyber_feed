@@ -1,0 +1,57 @@
+name: Daily Python Job
+
+on:
+  schedule:
+    - cron: "0 7 * * *"   # runs daily at 07:00 UTC
+  workflow_dispatch: {}    # allows manual run from GitHub UI
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Free disk space
+        run: |
+          sudo rm -rf /usr/share/dotnet
+          sudo rm -rf /opt/ghc
+          sudo rm -rf /usr/local/lib/android
+          sudo apt-get clean
+
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run script
+        run: |
+          python main.py
+
+      - name: Keep only dedup XLSX
+        run: |
+          rm -f data/google_news_raw_*.xlsx
+          rm -f data/search_audit_*.xlsx
+          rm -f data/google_news_dedup_audit_*.xlsx
+          ls -lah data
+
+    
+          
+      - name: Commit XLSX to repo
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add data/latest_deduped.xlsx
+          git commit -m "Update latest deduped CSV" || echo "No changes"
+          git push
