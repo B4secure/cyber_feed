@@ -1,6 +1,7 @@
 import os
 import re
 import glob
+import json
 import urllib.parse
 from pathlib import Path
 from datetime import datetime, timezone, timedelta
@@ -16,21 +17,24 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 
 # ---------------------------
-# CONFIG (can be overridden by GitHub Actions env vars)
+# CONFIG
 # ---------------------------
-PAST_DAYS = int(os.getenv("PAST_DAYS", "7"))
-MAX_ITEMS = int(os.getenv("MAX_ITEMS", "50"))
-DUP_THRESHOLD = float(os.getenv("DUi P_THRESHOLD", "0.60"))
-MODEL_NAME = os.getenv("MODEL_NAME", "all-MiniLM-L6-v2")
+PAST_DAYS     = int(os.getenv("PAST_DAYS", "7"))
+MAX_ITEMS     = int(os.getenv("MAX_ITEMS", "50"))
+DUP_THRESHOLD = float(os.getenv("DUP_THRESHOLD", "0.60"))
+MODEL_NAME    = os.getenv("MODEL_NAME", "all-MiniLM-L6-v2")
 
 HL, GL, CEID = "en-GB", "GB", "GB:en"
 
 DATA_DIR = Path("data")
 DATA_DIR.mkdir(exist_ok=True)
 
+DOCS_DIR = Path("docs")
+DOCS_DIR.mkdir(exist_ok=True)
+
 
 # ---------------------------
-# Your search library (unchanged)
+# SEARCH LIBRARY
 # ---------------------------
 SEARCH_LIBRARY_TEXT = r"""
 Dragonforce	"Dragonforce ransomware" OR "Dragonforce threat actor" OR "Dragonforce cyber attack"
@@ -120,30 +124,19 @@ def collect_google_news(df_searches: pd.DataFrame, past_days: int, max_items: in
     out_rows = []
     for _, r in df_searches.iterrows():
         name = r["search_name"]
-        q = r["raw_query"]
-        rss = google_news_rss_url(q, past_days)
+        q    = r["raw_query"]
+        rss  = google_news_rss_url(q, past_days)
         feed = feedparser.parse(rss)
-
         for entry in feed.entries[:max_items]:
-            out_rows.append(
-                {
-                    "search_name": name,
-                    "search_query": q,
-                    "title": entry.get("title", ""),
-                    "published": entry.get("published", ""),
-                    "link": entry.get("link", ""),
-                    "past_days": past_days,
-                }
-            )
+            out_rows.append({
+                "search_name":  name,
+                "search_query": q,
+                "title":        entry.get("title", ""),
+                "published":    entry.get("published", ""),
+                "link":         entry.get("link", ""),
+                "past_days":    past_days,
+            })
     return pd.DataFrame(out_rows)
-
-
-def latest_file(pattern: str) -> str | None:
-    files = glob.glob(pattern)
-    if not files:
-        return None
-    files.sort(key=lambda f: os.path.getmtime(f), reverse=True)
-    return files[0]
 
 
 def semantic_dedupe_csv(infile: str, out_clean: str, out_audit: str,
@@ -151,8 +144,8 @@ def semantic_dedupe_csv(infile: str, out_clean: str, out_audit: str,
     df = pd.read_excel(infile)
     df["compare_text"] = df["title"].fillna("").astype(str)
 
-    mask = df["compare_text"].str.len() > 0
-    df_work = df[mask].copy().reset_index(drop=True)
+    mask     = df["compare_text"].str.len() > 0
+    df_work  = df[mask].copy().reset_index(drop=True)
     orig_idx = df.index[mask].to_numpy()
 
     if df_work.empty:
@@ -161,16 +154,12 @@ def semantic_dedupe_csv(infile: str, out_clean: str, out_audit: str,
         return len(df), len(df)
 
     model = SentenceTransformer(model_name)
-    emb = model.encode(
-        df_work["compare_text"].tolist(),
-        normalize_embeddings=True,
-        show_progress_bar=False,
-    )
-    sim = cosine_similarity(emb, emb)
-    n = sim.shape[0]
+    emb   = model.encode(df_work["compare_text"].tolist(), normalize_embeddings=True, show_progress_bar=False)
+    sim   = cosine_similarity(emb, emb)
+    n     = sim.shape[0]
 
     parent = list(range(n))
-    rank = [0] * n
+    rank   = [0] * n
 
     def find(x):
         while parent[x] != x:
@@ -180,12 +169,9 @@ def semantic_dedupe_csv(infile: str, out_clean: str, out_audit: str,
 
     def union(a, b):
         ra, rb = find(a), find(b)
-        if ra == rb:
-            return
-        if rank[ra] < rank[rb]:
-            parent[ra] = rb
-        elif rank[ra] > rank[rb]:
-            parent[rb] = ra
+        if ra == rb: return
+        if rank[ra] < rank[rb]:   parent[ra] = rb
+        elif rank[ra] > rank[rb]: parent[rb] = ra
         else:
             parent[rb] = ra
             rank[ra] += 1
@@ -197,58 +183,78 @@ def semantic_dedupe_csv(infile: str, out_clean: str, out_audit: str,
 
     groups = {}
     for i in range(n):
-        r = find(i)
-        groups.setdefault(r, []).append(i)
+        groups.setdefault(find(i), []).append(i)
 
-    keep_work = set()
+    keep_work  = set()
     audit_rows = []
 
     for g in groups.values():
         if len(g) == 1:
-            keep_work.add(g[0])
-            continue
-
-        g_map = [(int(orig_idx[i]), i) for i in g]
-        g_map.sort(key=lambda x: x[0])
-
+            keep_work.add(g[0]); continue
+        g_map = sorted([(int(orig_idx[i]), i) for i in g])
         keep_orig, keep_i = g_map[0]
         keep_work.add(keep_i)
-
         for drop_orig, drop_i in g_map[1:]:
-            audit_rows.append(
-                {
-                    "kept_original_row": keep_orig,
-                    "dropped_original_row": int(drop_orig),
-                    "similarity": float(sim[keep_i, drop_i]),
-                    "kept_title": df.loc[keep_orig, "title"],
-                    "dropped_title": df.loc[int(drop_orig), "title"],
-                }
-            )
+            audit_rows.append({
+                "kept_original_row":    keep_orig,
+                "dropped_original_row": int(drop_orig),
+                "similarity":           float(sim[keep_i, drop_i]),
+                "kept_title":           df.loc[keep_orig, "title"],
+                "dropped_title":        df.loc[int(drop_orig), "title"],
+            })
 
-    kept_orig_rows = {int(orig_idx[i]) for i in keep_work}
-    drop_orig_rows = set(map(int, orig_idx.tolist())) - kept_orig_rows
-
+    kept_rows = {int(orig_idx[i]) for i in keep_work}
+    drop_rows = set(map(int, orig_idx.tolist())) - kept_rows
     keep_mask = np.ones(len(df), dtype=bool)
-    for r in drop_orig_rows:
+    for r in drop_rows:
         keep_mask[r] = False
 
     df_clean = df.loc[keep_mask].drop(columns=["compare_text"], errors="ignore").reset_index(drop=True)
-    audit = pd.DataFrame(audit_rows)
-
-    df_clean.to_excel(out_clean, index=False, engine = "openpyxl")
-    audit.to_excel(out_audit, index=False, engine = "openpyxl")
+    pd.DataFrame(audit_rows).to_excel(out_audit, index=False, engine="openpyxl")
+    df_clean.to_excel(out_clean, index=False, engine="openpyxl")
     return len(df), len(df_clean)
 
 
 def update_master_excel(new_df: pd.DataFrame, master_path: Path):
     if master_path.exists():
-        old_df = pd.read_excel(master_path)
+        old_df   = pd.read_excel(master_path)
         combined = pd.concat([old_df, new_df], ignore_index=True)
     else:
         combined = new_df.copy()
-
     combined = combined.drop_duplicates(subset=["link"]).reset_index(drop=True)
     combined.to_excel(master_path, index=False, engine="openpyxl")
+
+
+# ---------------------------
+# NEW: Export feed.json for portal
+# ---------------------------
+def export_feed_json(df: pd.DataFrame, past_days: int):
+    """Export deduplicated cyber/ransomware articles to docs/feed.json for the portal."""
+    articles = []
+    for _, row in df.iterrows():
+        articles.append({
+            "search_name":  str(row.get("search_name", "")),
+            "search_query": str(row.get("search_query", "")),
+            "title":        str(row.get("title", "")),
+            "title_en":     str(row.get("title", "")),  # already English
+            "published":    str(row.get("published", "")),
+            "link":         str(row.get("link", "")),
+            "category":     str(row.get("search_name", "")),  # threat actor name as category
+            "past_days":    int(row.get("past_days", past_days)),
+        })
+
+    payload = {
+        "generated_at":  datetime.now(timezone.utc).isoformat(),
+        "lookback_days": past_days,
+        "run_type":      f"Weekly run ({past_days}d)",
+        "articles":      articles,
+    }
+
+    output_path = DOCS_DIR / "feed.json"
+    with open(output_path, "w", encoding="utf-8") as f:
+        json.dump(payload, f, ensure_ascii=False, indent=2)
+
+    print(f"✓ feed.json written → {len(articles)} articles → {output_path}")
 
 
 def main():
@@ -264,20 +270,18 @@ def main():
     if not results.empty:
         results = results.drop_duplicates(subset=["link"]).reset_index(drop=True)
 
-    raw_results_file = DATA_DIR / f"google_news_raw_{ts}_past{PAST_DAYS}d.xlsx"
+    raw_results_file  = DATA_DIR / f"google_news_raw_{ts}_past{PAST_DAYS}d.xlsx"
     audit_search_file = DATA_DIR / f"search_audit_{ts}.xlsx"
 
     results = results.apply(
         lambda s: s.dt.tz_localize(None)
-        if hasattr(s, "dt") and getattr(s.dt, "tz", None) is not None
-        else s
+        if hasattr(s, "dt") and getattr(s.dt, "tz", None) is not None else s
     )
 
     results.to_excel(raw_results_file, index=False, engine="openpyxl")
     search_df.to_excel(audit_search_file, index=False, engine="openpyxl")
 
-    # Dedupe the raw file we just created
-    dedup_file = DATA_DIR / f"google_news_dedup_{ts}_past{PAST_DAYS}d.xlsx"
+    dedup_file  = DATA_DIR / f"google_news_dedup_{ts}_past{PAST_DAYS}d.xlsx"
     dedup_audit = DATA_DIR / f"google_news_dedup_audit_{ts}.xlsx"
 
     orig, cleaned = semantic_dedupe_csv(
@@ -288,34 +292,17 @@ def main():
         model_name=MODEL_NAME,
     )
 
-    # Update the stable file (append + global dedupe)
-    latest = DATA_DIR / "latest_ransomware_news.xlsx"
-    df_final = pd.read_excel(dedup_file)
+    latest    = DATA_DIR / "latest_ransomware_news.xlsx"
+    df_final  = pd.read_excel(dedup_file)
     update_master_excel(df_final, latest)
-    print(f"Updated latest file: {latest}")
 
-    print(f"Saved raw:   {raw_results_file} | rows={len(results)}")
-    print(f"Saved audit: {audit_search_file} | searches={len(search_df)}")
-    print(f"Dedupe: original={orig} cleaned={cleaned}")
-    print(f"Saved dedup: {dedup_file}")
-    print(f"Saved dedup audit: {dedup_audit}")
+    # ── Export dashboard feed ──
+    export_feed_json(df_final, PAST_DAYS)
+
+    print(f"✓ Raw:        {raw_results_file} ({len(results)} rows)")
+    print(f"✓ Dedup:      {orig} → {cleaned}")
+    print(f"✓ Master:     {latest}")
 
 
 if __name__ == "__main__":
     main()
-
-
-
-# %%
-
-
-
-
-
-
-
-
-
-
-
-
