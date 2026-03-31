@@ -2,7 +2,7 @@ name: Ransomware News Collector
 
 on:
   schedule:
-    - cron: "0 0 * * 3"   # weekly, Monday 00:00 UTC
+    - cron: "0 0 * * 3"   # Weekly Wednesday 00:00 UTC
   workflow_dispatch: {}
 
 permissions:
@@ -11,12 +11,12 @@ permissions:
 jobs:
   run:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
           persist-credentials: true
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -36,14 +36,35 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run script
-        run: |
-          python main.py
+        run: python main.py
+        env:
+          PAST_DAYS:     "7"
+          MAX_ITEMS:     "50"
+          DUP_THRESHOLD: "0.60"
+          MODEL_NAME:    "all-MiniLM-L6-v2"
 
-      - name: Commit XLSX to repo
+      - name: Commit outputs
+        shell: bash
         run: |
-          git config user.name "github-actions"
+          set -e
+          git config user.name  "github-actions"
           git config user.email "github-actions@github.com"
-          git add data/latest_ransomware_news.xlsx
-          git commit -m "Update ransomware news feed" || echo "No changes"
-          git pull --rebase
-          git push
+
+          files=()
+          [ -f data/latest_ransomware_news.xlsx ] && files+=(data/latest_ransomware_news.xlsx)
+          [ -f docs/feed.json ]                   && files+=(docs/feed.json)
+
+          if [ ${#files[@]} -eq 0 ]; then
+            echo "No output files to commit."
+            exit 0
+          fi
+
+          git add "${files[@]}"
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Update ransomware news feed"
+          git push origin HEAD:main
