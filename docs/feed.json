@@ -1,1 +1,127 @@
-
+{
+  "generated_at": "2026-03-31T10:02:16.537868+00:00",
+  "lookback_days": 7,
+  "run_type": "Weekly run (7d)",
+  "articles": [
+    {
+      "search_name": "Qilin",
+      "search_query": "\"Qilin ransomware\" OR \"Qilin threat actor\" OR \"Qilin cyber attack\"",
+      "title": "Qilin Ransomware allegedly breached chemical manufacturer giant Dow Inc - Security Affairs",
+      "title_en": "Qilin Ransomware allegedly breached chemical manufacturer giant Dow Inc - Security Affairs",
+      "published": "Tue, 31 Mar 2026 07:24:25 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQkt5Zm1raGlFQ3ZFTWk2U01zUlZERzVMSTNPNTZhcHFCTkNqOThqUXpmVFNrVEdoUjVCZEhSSzAxV0wtS3p3NFRIeEJBempCQVd1cFRBS2JGdHpHQm5vNU5RZW4yaW10MTdJLTBpYnZ2Sm5wdXpxbDlmZnRrWTV2dGM0d3VDWVhYVmFGQ0RMWFFoaEgxd3NuMXdxRGdRdm1xTlREUm9fTjJ4YXJscWFwcFFYVWlXR2ZQX3BCZmFGUVI?oc=5",
+      "category": "Qilin",
+      "past_days": 7
+    },
+    {
+      "search_name": "Qilin",
+      "search_query": "\"Qilin ransomware\" OR \"Qilin threat actor\" OR \"Qilin cyber attack\"",
+      "title": "Shwapno files GD seven months after customer data breach - The Business Standard",
+      "title_en": "Shwapno files GD seven months after customer data breach - The Business Standard",
+      "published": "Sun, 29 Mar 2026 13:20:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV2t1VDZjSnhNR09hUHBiWEFFVlV0ZUtkaVVNUVUtSkwtUHNMTk11bEZRZ190a0lqYWM3eGltMThCNkFuT2tXbGxib3VFNF9TdDZKWEtNcUxOUlZEdXBONy1QTjZOME9PTkdnNzJNWWwxT2c5ZEVyb2h5ZDRPSk1LbmVTd28zdENtZm9BQ010OWZEWUM5WWhrNENnclE1V1o1elZiTlR30gGmAUFVX3lxTE5Xa3VUNmNKeE1HT2FQcGJYQUVWVXRlS2RpVU1RVS1KTC1Qc0xOTXVsRlFnX3RrSWphYzd4aW0xOEI2QW5Pa1dsbGJvdUU0X1N0NkpYS01xTE5SVkR1cE43LVBONk4wT09OR2c3Mk1ZbDFPZzlkRXJvaHlkNE9KTUtuZVN3bzN0Q21mb0FDTXQ5ZkRZQzlZaGs0Q2dyUTVXWjV6VmJOVHc?oc=5",
+      "category": "Qilin",
+      "past_days": 7
+    },
+    {
+      "search_name": "Qilin",
+      "search_query": "\"Qilin ransomware\" OR \"Qilin threat actor\" OR \"Qilin cyber attack\"",
+      "title": "Rocky Mountain Care Cybersecurity Incident Triggers Legal, Regulatory, and Public Relations Crisis—Ongoing Pattern Indicates Persistent Threat, Potential Settlements Ahead - Bitget",
+      "title_en": "Rocky Mountain Care Cybersecurity Incident Triggers Legal, Regulatory, and Public Relations Crisis—Ongoing Pattern Indicates Persistent Threat, Potential Settlements Ahead - Bitget",
+      "published": "Sat, 28 Mar 2026 01:41:02 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4yRDJFemt6OUx6Nm14N1F4YjJGczdmLWI0OTFIeWpEc2dPeGhBZGlNS2x2RHdFdGRqWDU2c3FVeFBVcXBaa0lHN3hNbTN5Ukc1bkdpX2tqNlFSbE9qMTlnenVmb9IBY0FVX3lxTE4yRDJFemt6OUx6Nm14N1F4YjJGczdmLWI0OTFIeWpEc2dPeGhBZGlNS2x2RHdFdGRqWDU2c3FVeFBVcXBaa0lHN3hNbTN5Ukc1bkdpX2tqNlFSbE9qMTlnenVmbw?oc=5",
+      "category": "Qilin",
+      "past_days": 7
+    },
+    {
+      "search_name": "Qilin",
+      "search_query": "\"Qilin ransomware\" OR \"Qilin threat actor\" OR \"Qilin cyber attack\"",
+      "title": "Rocky Mountain Care Discloses Data Breach Following Ransomware Attack - Claim Depot",
+      "title_en": "Rocky Mountain Care Discloses Data Breach Following Ransomware Attack - Claim Depot",
+      "published": "Sun, 29 Mar 2026 03:26:34 GMT",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9pc3FORzFtZDhURkRHUURBX0RFS3k5dVVUU0QxYV9Ec01pdGRXMFFDN3B0SVF5VGxPX1ZvYVJIWUh1eVExVEwzQXNZb3NhdzBkN3ozTGZvY3lKV1pfbS1xdXBvZFRLYTNoR3k1UmVYNXQ?oc=5",
+      "category": "Qilin",
+      "past_days": 7
+    },
+    {
+      "search_name": "Qilin",
+      "search_query": "\"Qilin ransomware\" OR \"Qilin threat actor\" OR \"Qilin cyber attack\"",
+      "title": "BMG Data Breach Lawsuit Investigation - Claim Depot",
+      "title_en": "BMG Data Breach Lawsuit Investigation - Claim Depot",
+      "published": "Tue, 24 Mar 2026 18:36:15 GMT",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xb1RIaEFlSk1kVlVSVkpiRW5QRjdUVTdtd19vcDJNR3F6NDQxb25lczJYM1ZTZTBQZ3M4bU55bzhpX291V1B4UXJXOVlhaHZDVGcxWC1YTFF0aWZ5bXRQektwRVFNVUxqTmwyb2Z4OA?oc=5",
+      "category": "Qilin",
+      "past_days": 7
+    },
+    {
+      "search_name": "Qilin",
+      "search_query": "\"Qilin ransomware\" OR \"Qilin threat actor\" OR \"Qilin cyber attack\"",
+      "title": "Probe body inspects Daulatdia ferry site after Padma bus tragedy - The Business Standard",
+      "title_en": "Probe body inspects Daulatdia ferry site after Padma bus tragedy - The Business Standard",
+      "published": "Sun, 29 Mar 2026 13:50:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbGNvQVZsaS1PWUg0Mk82WUlBUWs3M0JVU0djRWRmYWhRMXh0c1JTeEV4dFhiZURCelBXUmRpWF9fc0Z3UHhpdnVSakZFTzNuczktQmUwRDRzSmhfY1MySUtXSkp3RFF6cFJhQldQUElqcEowanBOUUo4c2dQNWc4MS1FM0ZIdjZaamxWOWp4c3FiWFJ5eUJRaDNNUmFTV1BtVDhyYmozOWo3Q1HSAbABQVVfeXFMT3Nqa2ZJdFRVLUNTdl9aYk9KMzgxUU1jMmFmLU0tbkRUbUVkZFNmVFF2dGxKQW5lMnJYVzU2OFhTVlNoaWdRR2g2bS1lNzJHVkRYZzNDWUNteU5zX0trSUg2S016VGZsTlptTmdNT3Z5aXdVOXpia3VVb3h4MlE3YUtaMlFoMkU3R2JDWXRJU0VMczFIMXlLMm44dlRJRXp3Nk1lS3FfRkNmQkpRVGt0VDE?oc=5",
+      "category": "Qilin",
+      "past_days": 7
+    },
+    {
+      "search_name": "Akira",
+      "search_query": "\"Akira ransomware\" OR \"Akira threat actor\" OR \"Akira cyber attack\"",
+      "title": "Marquis Cyber Attack Affected Over 672,000, Akira Ransomware Gang Exonerated - CPO Magazine",
+      "title_en": "Marquis Cyber Attack Affected Over 672,000, Akira Ransomware Gang Exonerated - CPO Magazine",
+      "published": "Tue, 24 Mar 2026 11:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVFRyRmNLT19DeHZPcjUxNTF2QXdUd2RKWkR3aV9hSFNnemZ4cnN3ME51SWJ5VlV4RlI2Wm13UFBieGdBdDNyZnBOT2FkY3BSdWNQZExzaVJxaGN1dF9DNzZnNU1ENm9fa2E5NlZkQ29obnRBdUdySVQxcGlFckpwZXBLQjlVY2lwd044TmJqd0hsT19oUE9NX1hFSFpYRFFvUWxWMHUyX2FKeml4bzNzZ2FKRGtUaDgtbHc?oc=5",
+      "category": "Akira",
+      "past_days": 7
+    },
+    {
+      "search_name": "LockBit",
+      "search_query": "\"LockBit ransomware\" OR \"LockBit threat actor\" OR \"LockBit cyber attack\"",
+      "title": "Pro-Ukraine hacker group Bearlyfy targets Russian companies with custom ransomware - The Record from Recorded Future News",
+      "title_en": "Pro-Ukraine hacker group Bearlyfy targets Russian companies with custom ransomware - The Record from Recorded Future News",
+      "published": "Thu, 26 Mar 2026 15:34:42 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRd3ljUTJkWnlrU2lfWS1lUzBqN2ZuVENwR3lWWlJHQUhwMDhGWEMxZmxDd2VVV3VEMWx0WFpQak1mdVBUN0ZJbXBhVFRiZWRDbHgzRHRGTElXN1Y1bWdVOGpuWTVyQURaTlE?oc=5",
+      "category": "LockBit",
+      "past_days": 7
+    },
+    {
+      "search_name": "LockBit",
+      "search_query": "\"LockBit ransomware\" OR \"LockBit threat actor\" OR \"LockBit cyber attack\"",
+      "title": "Kash Patel ‘spiderkash’ leak triggers dozens of Solana memecoin scams - Protos | Informed crypto news",
+      "title_en": "Kash Patel ‘spiderkash’ leak triggers dozens of Solana memecoin scams - Protos | Informed crypto news",
+      "published": "Mon, 30 Mar 2026 11:27:24 GMT",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNN2tSYmkwdi1rN2owM0M2S3haSzlfLW5GYk44TWhMQjlrWV9vaWRnc0g1cUNoZU1lVjFCdlFfeUp2QUx5RkN0dDVyTkZweTlzcjhxUWF2bjFnRzBTbXNJZGFrLUZzOXVKZWlqaFBDV3BiV2pBSG82MjZHTXZXYnFDN0N4OVg2VkFBYVhsUjB4Qmk?oc=5",
+      "category": "LockBit",
+      "past_days": 7
+    },
+    {
+      "search_name": "Play",
+      "search_query": "\"Play ransomware\" OR \"Play threat actor\" OR \"Play cyber attack\"",
+      "title": "Play Ransomware Destroys EDR/EPP via Disk Manager - Seizes Network Firewalls - Halcyon",
+      "title_en": "Play Ransomware Destroys EDR/EPP via Disk Manager - Seizes Network Firewalls - Halcyon",
+      "published": "Fri, 27 Mar 2026 01:16:11 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZTRQRHRUR25vRmdXVTlVU1hNZW5JbDkwWFg0ejVKOWR6elpiek9YbEpHTFlKU2tZaXdBREoxbkp6TVdCMmVCeFJobUVWRHA2Wm1xRlhRZ2RCeWkzaFlqeXI0dTdhU2ZrS1BUTFdVdktvQ0pHVmUyXzc3enJIZ094RkdrRVhYS1FmTGJNdGhKeF9HYXhYdWlWWlRqdWd5NktPcEduMzJ2b29fSVNycXhHTlFRNTBLRUUwdXg5ejFMREM1eEZYc3dR?oc=5",
+      "category": "Play",
+      "past_days": 7
+    },
+    {
+      "search_name": "Play",
+      "search_query": "\"Play ransomware\" OR \"Play threat actor\" OR \"Play cyber attack\"",
+      "title": "Play Ransomware Strikes All Real Estate Title Solutions - DeXpose",
+      "title_en": "Play Ransomware Strikes All Real Estate Title Solutions - DeXpose",
+      "published": "Wed, 25 Mar 2026 00:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcFFULWp1VnA2Vk5pM0lRellZM2tEOHpYMnQ0YVZMNEhNNVlJWWdJOTBHUmNjWEw0ZEZRTG5tS2pzR294SmVxaHRySC1mM0RZVGlNNGZMeXVDRmZLZTdGdUYwd2ZVU3VhZ05PaDVVSHJ6UjlXdmNTQkltUDVxd0JFSEtPdmNTdw?oc=5",
+      "category": "Play",
+      "past_days": 7
+    },
+    {
+      "search_name": "Medusa",
+      "search_query": "\"Medusa ransomware\" OR \"Medusa threat actor\" OR \"Medusa cyber attack\"",
+      "title": "Spyware combing for data 'of use to China' hidden inside religious and cultural apps - MSN",
+      "title_en": "Spyware combing for data 'of use to China' hidden inside religious and cultural apps - MSN",
+      "published": "Wed, 25 Mar 2026 01:09:54 GMT",
+      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxPQ254TXh5eE5rWTVQTDB6bVFnaktzZUpldFQ4aUtPOFE4OWpJTjlLb3d1M3ZIcG4tdm91cE83R1BqNlNPZWlRVHBXLVpEYjEzTUU5cWJhcjdJOWNMZWE5Nkp1am1aeko2cnBtem9MbGh4c2E0ZDVaQUx1UzFjT1p1YVJiS3UxWFJ0bjJZdGxNc2tHOWpOR1JqUTdEVHFScktSQkx6STAwcGpmb2RMaVRwT3B2YWRqMGRPNnZCNEdDdmU0bnRYLXBnZzJ5YjdWMTdqTHRSUklPWmZLdlVsMnY3WGg4T3BWZFB3QXMtMnJWdjFFTHV1VWNnR3M3bFhacWNtNHNMcWtJOWl4S3c3ZFd5cUlRQ2tGV2w1SnU2TW81Q04zM2taRDh5enZtVXNWcGg2cmMyQW5rZjV1M21EQjliMFBjakNOWGtjbzFHdTEyTTRZMUZ4LV9fVlNqelpNM1FKUmY4aDJ6U1JVZGd1VWtDdy1uYlB4TE52OXdmcFZYS0k?oc=5",
+      "category": "Medusa",
+      "past_days": 7
+    }
+  ]
+}
