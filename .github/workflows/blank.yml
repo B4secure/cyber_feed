@@ -38,7 +38,7 @@ jobs:
       - name: Run script
         run: python main.py
         env:
-          PAST_DAYS:     "7"
+          PAST_DAYS:     "30"
           MAX_ITEMS:     "50"
           DUP_THRESHOLD: "0.60"
           MODEL_NAME:    "all-MiniLM-L6-v2"
