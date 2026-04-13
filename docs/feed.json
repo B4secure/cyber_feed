@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-04-13T13:22:36.640387+00:00",
-  "lookback_days": 7,
-  "run_type": "Weekly run (7d)",
+  "generated_at": "2026-04-13T13:36:32.465617+00:00",
+  "lookback_days": 30,
+  "run_type": "Weekly run (30d)",
   "articles": [
     {
-      "search_name": "Qilin",
-      "search_query": "\"Qilin ransomware\" OR \"Qilin threat actor\" OR \"Qilin cyber attack\"",
-      "title": "Qilin ransomware group targets German political party Die Linke, threatens data leak | brief | SC Media - SC Media",
-      "title_en": "Qilin ransomware group targets German political party Die Linke, threatens data leak | brief | SC Media - SC Media",
-      "published": "Mon, 06 Apr 2026 14:19:14 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2JTM3NacE5HbmdJYnF2VzlYMDNiVWgxWWVzY0JkS2d4dHlNRmg5ZUF4TGZKUW1WeHQtTnpSU2s1ekgxRWpMbHM1V3I3WVNZVWhRbFF1VUduS091bXMwM1NLb2hvbzZ1aWFqUWM5ZWs3OHBzenhLZm9xU1NUVmk2VHBJMFc4YjVQQ2xYYzN0ZFBfQnpnVWUtMllJVlFfd2tJU1kxWGt0UFZ6SW1PcHpjRDA0UQ?oc=5",
-      "category": "Qilin",
-      "past_days": 7
+      "search_name": "Dragonforce",
+      "search_query": "\"Dragonforce ransomware\" OR \"Dragonforce threat actor\" OR \"Dragonforce cyber attack\"",
+      "title": "Watch: DragonForce Ransomware and the Evolving Affiliate Ecosystem - Sophos",
+      "title_en": "Watch: DragonForce Ransomware and the Evolving Affiliate Ecosystem - Sophos",
+      "published": "Fri, 03 Apr 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQXp6MDlPRXR4SGxuMDZXX09LSWVrYmw4M0hWUDJsUUdROXJWLXhzakljR29wdUp4a0pVeHJyX2RMSFo1eEJyazE4NzZTTk1QeEtXRjdqQWxUT2tsZzR3VUdqNmJaU1laNlg3WDBUV0VRNDF0VXNWcDdROWpHSzlsaGlUeUxUZXp4SGRJZEJCOThIQVVfTUtkTWZyanZscF82UURVdUZtMFp5cXJIUE9sS0ktRGlVdlFVOHR3?oc=5",
+      "category": "Dragonforce",
+      "past_days": 30
     },
     {
       "search_name": "Qilin",
       "search_query": "\"Qilin ransomware\" OR \"Qilin threat actor\" OR \"Qilin cyber attack\"",
-      "title": "Seeing Machines Faces Unsubstantiated Cyber Allegation—Analysts Predict 166% Growth as Market Overlooks the Opportunity - Bitget",
-      "title_en": "Seeing Machines Faces Unsubstantiated Cyber Allegation—Analysts Predict 166% Growth as Market Overlooks the Opportunity - Bitget",
-      "published": "Thu, 09 Apr 2026 17:21:41 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56UnlnZl9sTjQ2ay03TjJsV3VTTWFrMnBQR0pCaTBDUnoxckVVcXh3SjJiaVZQbHNQWllQUVMwbTlibTRMeGJBZk5tbnNtYzRKU18wRkxiZDBoTjE4eWfSAWNBVV95cUxObV9HOXJhb0pFNnB6eWMwWnZWaDRPUl9WMUdKaTdjalRhVW5kcnllV1V2bnRXbDA2b21haU13NU9OSWFGNjF0Y24yUzk4YldFcVlRODltejVtZ1pDbVY3aTUwVTA?oc=5",
+      "title": "NYC Transit Workers Hit by Qilin Ransomware: Thousands of Members Potentially Affected in Major Data Breach - ekhbary.com",
+      "title_en": "NYC Transit Workers Hit by Qilin Ransomware: Thousands of Members Potentially Affected in Major Data Breach - ekhbary.com",
+      "published": "Sun, 12 Apr 2026 14:23:53 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOd1FXQVFjTWxNaEFIUkY4THBVZmFHWldVeENHOFZLbk1qSUNyeGw2WElQUTE2ZG9ocGxsS3V6XzdKR3ZfTTVMdUlQQVpBLTh5dkNyVVphZDFmUGw1RkhwalczOWJJemdmTGc2MXIta05xV0pNelhxTVF1U2dmRmxKeWJHNk5ETThhMG1CX0NJRjlld0xKNDRIblYyRzhUdlRJbmVZNFhkSGRVa1RWU0g1QVEtenlUT1cwUVdfY3h5TWQzWEZrR0pXM3NPLVloaERWMnBuNUFIeHhIaWk3V3RHMm5R?oc=5",
       "category": "Qilin",
-      "past_days": 7
+      "past_days": 30
     },
     {
-      "search_name": "Qilin",
-      "search_query": "\"Qilin ransomware\" OR \"Qilin threat actor\" OR \"Qilin cyber attack\"",
-      "title": "Exclusive: Aussie tech firm Seeing Machines confirms potential cyber security incident - Cyber Daily",
-      "title_en": "Exclusive: Aussie tech firm Seeing Machines confirms potential cyber security incident - Cyber Daily",
-      "published": "Wed, 08 Apr 2026 03:47:41 GMT",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVHhUVUl5RzZJdTM2VGFZbEt1emRaVDltTnB2RTBLNTNvNjBVZGZBRDFta3E4WlFSYlh5b2ZHZ1pWbzZ1SjRFZlNqeDM1QVgtOGZkX2pzWnc5dGVTRUNOaDkzYUpWNS1QV0xSWUhQenJ1bnRSMlJleG56bngyVUhmcTVlY1JtZzJ1TzFkcnhtZU1sTzFvU1RoakswSlZTNl9YVXJiemhoempCa2FwV1JEd0FOSEJLNXd3Z3hFeDc1aHVtbjBz?oc=5",
-      "category": "Qilin",
-      "past_days": 7
+      "search_name": "Everest",
+      "search_query": "\"Everest ransomware\" OR \"Everest threat actor\" OR \"Everest cyber attack\"",
+      "title": "Everest increases pressure on Nissan, but desperation creeps in - Cybernews",
+      "title_en": "Everest increases pressure on Nissan, but desperation creeps in - Cybernews",
+      "published": "Wed, 01 Apr 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5YOEpIMnJTanpGRnRvOUNzSFBfWEFJM1Y4SnA2LXRLdGFNMTJmaGFsZmpYNm45TWh2RUhhS1N3VmFMLTBxOEhJN2p0UmJsRWM4c2xObjJzZU45VnNGNVlyT1RhUFhBbXZTQnhNQ3l0S0YyNjVZYmJr?oc=5",
+      "category": "Everest",
+      "past_days": 30
     },
     {
       "search_name": "Play",
@@ -41,7 +41,47 @@
       "published": "Fri, 10 Apr 2026 08:31:18 GMT",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQnMySG1ocUhBNkxWaTRSYWpuR3BOV3dTVmpXbUZFTmNNa0dJNkQzV2hKNmFZRi0zYUo2NDVhdFhaazdFc2FoTjRNRVpnLVZpNHdYNWxSN3lEeEV5R1l0b3otb0lKemdfNTlDc1hIMFowSklUNVVuNHZpZlpYbExHZm4tMnA?oc=5",
       "category": "Play",
-      "past_days": 7
+      "past_days": 30
+    },
+    {
+      "search_name": "Play",
+      "search_query": "\"Play ransomware\" OR \"Play threat actor\" OR \"Play cyber attack\"",
+      "title": "World’s most powerful demolition robot maker allegedly hacked - Cybernews",
+      "title_en": "World’s most powerful demolition robot maker allegedly hacked - Cybernews",
+      "published": "Thu, 02 Apr 2026 15:17:13 GMT",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94WlRwVV8zWWxrbXg1cTRzaXN1Y3NLRmZ5MUxLNWFGei1GQXZJR3lIbnQtNDRzLVFoc1NRVGI5bnVmbW9wMVEyREtMQksxZzAwLUtOUWs0MG04NWdfbW0zZ2R4WGM4SURWeTIydg?oc=5",
+      "category": "Play",
+      "past_days": 30
+    },
+    {
+      "search_name": "Cl0p",
+      "search_query": "\"Cl0p ransomware\" OR \"Cl0p threat actor\" OR \"Cl0p cyber attack\"",
+      "title": "Oracle EBS Hack: Only 4 Corporate Giants Still Silent on Potential Impact - SecurityWeek",
+      "title_en": "Oracle EBS Hack: Only 4 Corporate Giants Still Silent on Potential Impact - SecurityWeek",
+      "published": "Mon, 16 Mar 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMFJyOUtVUndEV0tOLTJ2NGluWEo4allSbTY5dmVLcEFrUUI4Ym1IX2tJMDcxWDNJZTVDSGdNREpqMTJGRUhrQ1dzWTdHdVJSRWxsMTNPOXpfdUNoNC1ydXMtSW5BSzdHVTB4TTFPVS1HNnVkcExSYzJTT3hlVDR0TEw0bXhrOGhVT0dDTWt2ZmtSb0drVmhzdXFCVlJRSGZ2Nlp6SdIBqgFBVV95cUxNb3lIOVczcGZVblNTWkJ2b2RSbHZPMXZEaTNtNUFWR2w0YUR5QVFOMFlNcHpsUFhtbDM5SEhrdnN4cG81b3BkRjdLSWNUVGJVMU5xZTNBbk9FMk9qNXJRR1pWWWRmeVR5R3kwZHhnNjVQV2x6YUZabFVsVmVxN2sxLWprVDdmY0g4UGVjdWFXcUtfaG1MRHR4LTNlbFE1TVhQel8yYmJuQXE2dw?oc=5",
+      "category": "Cl0p",
+      "past_days": 30
+    },
+    {
+      "search_name": "Cl0p",
+      "search_query": "\"Cl0p ransomware\" OR \"Cl0p threat actor\" OR \"Cl0p cyber attack\"",
+      "title": "Check City ties 320,000-customer breach to Clop, sends notices a year later - Cybernews",
+      "title_en": "Check City ties 320,000-customer breach to Clop, sends notices a year later - Cybernews",
+      "published": "Fri, 03 Apr 2026 02:18:32 GMT",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVjh1dnZNRTVTaTZRaTU5VEVndENhVzBmb0pnOUtzSW5XcW1IRTM4YU5uQ1NPRTJnbVRHQzJTSllvaTFLVTRaN2xkZDl1WDl3dVdVZUJ1YkVCajZpTzdjdGtuT0pEV1FJS0R0emJ2UTNpeHNIOEtLMUVKTVgyRWxSUVJPR2xBalU?oc=5",
+      "category": "Cl0p",
+      "past_days": 30
+    },
+    {
+      "search_name": "Interlock",
+      "search_query": "\"Interlock ransomware\" OR \"Interlock threat actor\" OR \"Interlock cyber attack\"",
+      "title": "Cisco’s latest vulnerability spree has a more troubling pattern underneath - CyberScoop",
+      "title_en": "Cisco’s latest vulnerability spree has a more troubling pattern underneath - CyberScoop",
+      "published": "Wed, 18 Mar 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9iSGlPV1BTWUYzbFl5blZwd21tcG1TelI5OEZXNnhUbXlOWDFzNjQ3R0Z3RnhtUGtxbmNNVC0wLTEwWVl0OWdCRDZCVmpaZDZZSlFkVzZmU1ZaTjZhSFhOWjhzVW1HWHhpNU4tS2xReWxKY2FvcmdiQUFkaw?oc=5",
+      "category": "Interlock",
+      "past_days": 30
     },
     {
       "search_name": "Safepay",
@@ -51,7 +91,7 @@
       "published": "Thu, 09 Apr 2026 10:18:23 GMT",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNWU1McXFRUGhLNWdFcWE5RS1CTXR2M2h5ZEkwWVZtLUwyQkRiMkNSZnRRVUIyZ1R5c2l2TXRXNllNVXZDOGRDb3ZyZ1FCZUd0VjhWQ1g1dGdlUnhSVTJsTGtuUl9LZlVEVWhja2xoSWtNbW9RNmRRTndreV8tREphY1NWSFVUT0tRQkhRSlUzVExhY2ZGVFlSUXlIWmY2c0pHemZ1VXhPaGJGbmxLYkpGLUdENDladTJnd2dhOVVGcTVIdzRkc0dUYzQ4eDRMN1BtVU5TRno3aWFYSjMtRzYtNHRwN3NPVXNzZU5MRnBxcE1aR1h0N25FTkRwaGtrX0E?oc=5",
       "category": "Safepay",
-      "past_days": 7
+      "past_days": 30
     }
   ]
 }
