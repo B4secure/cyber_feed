@@ -1,36 +1,26 @@
 {
-  "generated_at": "2026-04-15T06:23:43.768201+00:00",
+  "generated_at": "2026-04-22T03:27:24.647030+00:00",
   "lookback_days": 30,
   "run_type": "Weekly run (30d)",
   "articles": [
     {
       "search_name": "Dragonforce",
       "search_query": "\"Dragonforce ransomware\" OR \"Dragonforce threat actor\" OR \"Dragonforce cyber attack\"",
-      "title": "Watch: DragonForce Ransomware and the Evolving Affiliate Ecosystem - Sophos",
-      "title_en": "Watch: DragonForce Ransomware and the Evolving Affiliate Ecosystem - Sophos",
-      "published": "Fri, 03 Apr 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQXp6MDlPRXR4SGxuMDZXX09LSWVrYmw4M0hWUDJsUUdROXJWLXhzakljR29wdUp4a0pVeHJyX2RMSFo1eEJyazE4NzZTTk1QeEtXRjdqQWxUT2tsZzR3VUdqNmJaU1laNlg3WDBUV0VRNDF0VXNWcDdROWpHSzlsaGlUeUxUZXp4SGRJZEJCOThIQVVfTUtkTWZyanZscF82UURVdUZtMFp5cXJIUE9sS0ktRGlVdlFVOHR3?oc=5",
+      "title": "DragonForce Ransomware Attack on Champion Homes - DeXpose",
+      "title_en": "DragonForce Ransomware Attack on Champion Homes - DeXpose",
+      "published": "Tue, 21 Apr 2026 00:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBuYk1KdVpTUUo5bVBsUE5zc25hY3BrRXdPMjluSTkxWmsyak0temQ1UUdFSWhYTUlJV1VlYi1kQnM0VVlMRi04Zl94cEE4WERsV3ktRU04MEdDRWM1WEZOX0xjNWlGZUJUVGFwaW9RRERGVjlTRGpjLW51OA?oc=5",
       "category": "Dragonforce",
       "past_days": 30
     },
     {
-      "search_name": "Dragonforce",
-      "search_query": "\"Dragonforce ransomware\" OR \"Dragonforce threat actor\" OR \"Dragonforce cyber attack\"",
-      "title": "Ransomware-Linked ViperTunnel Malware Hits UK and US Businesses - Hackread",
-      "title_en": "Ransomware-Linked ViperTunnel Malware Hits UK and US Businesses - Hackread",
-      "published": "Tue, 14 Apr 2026 10:02:28 GMT",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WQlQ0T1ZyWUtQTXpMZzZNZTIydlV4OFlTbG9Pd3B5cHNyclNrZzEyWjdkSjYtSlV6ZVdfbGFJc1lJbWVpZmM2bDZrZENwNkZiSkYxVlpwOE5BT3NFbEJ5eV9yNUt0aks1OTdSNUVKbFI2OVBaaHB4LQ?oc=5",
-      "category": "Dragonforce",
-      "past_days": 30
-    },
-    {
-      "search_name": "Dragonforce",
-      "search_query": "\"Dragonforce ransomware\" OR \"Dragonforce threat actor\" OR \"Dragonforce cyber attack\"",
-      "title": "Obfuscated Loader Chain Delivers VIPERTUNNEL Backdoor via Fake DLL - cyberpress.org",
-      "title_en": "Obfuscated Loader Chain Delivers VIPERTUNNEL Backdoor via Fake DLL - cyberpress.org",
-      "published": "Tue, 14 Apr 2026 05:58:05 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14dTI0cUZmR3Y3cjAtWlVKMkVzSmlMZ3N2ODRYZURLaF9xbjJCQ0dJUmNqWGJKNjFXdDBIYk93QUctc2ZRem1rb0IwcFAwc3NFWGx3YTZoNmI1cnl6dEVka3hqdjZPV1U?oc=5",
-      "category": "Dragonforce",
+      "search_name": "Qilin",
+      "search_query": "\"Qilin ransomware\" OR \"Qilin threat actor\" OR \"Qilin cyber attack\"",
+      "title": "Qilin EDR killer infection chain - Cisco Talos Blog",
+      "title_en": "Qilin EDR killer infection chain - Cisco Talos Blog",
+      "published": "Thu, 02 Apr 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03aDVvVHpVOXQyTG85WnBacWs5V05BNzJLbFVMVFR4NFBDN3czY0NDak5zV2RfZDVISHM3TElBdW5rS0Nwa1g3ci1lYVlyaTVRMV9qdTJkQnlmeTBQd2hpTUpB?oc=5",
+      "category": "Qilin",
       "past_days": 30
     },
     {
@@ -41,6 +31,36 @@
       "published": "Wed, 01 Apr 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5YOEpIMnJTanpGRnRvOUNzSFBfWEFJM1Y4SnA2LXRLdGFNMTJmaGFsZmpYNm45TWh2RUhhS1N3VmFMLTBxOEhJN2p0UmJsRWM4c2xObjJzZU45VnNGNVlyT1RhUFhBbXZTQnhNQ3l0S0YyNjVZYmJr?oc=5",
       "category": "Everest",
+      "past_days": 30
+    },
+    {
+      "search_name": "Everest",
+      "search_query": "\"Everest ransomware\" OR \"Everest threat actor\" OR \"Everest cyber attack\"",
+      "title": "60K Bitcoin addresses leaked as LockBit ransomware gang gets hacked - MSN",
+      "title_en": "60K Bitcoin addresses leaked as LockBit ransomware gang gets hacked - MSN",
+      "published": "Sun, 19 Apr 2026 15:38:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQWXdUWFVQUURMcnlWRXFKemMyV2RUQVB5cVpGdVp6Ylc3amtCNFd5Wm5JQUd6cXFfNkFqSHA3YVY2THhDQ2I1MUFlTkUzRDFVUTZZeXZIeTNSdUJiVExCZHVpYTRKblFIaHFyRVVNTzBnMy12ZXY0VmdESnJDeWRRQ25UcW5EeHNZV09CX25LNmVOeDR3bFBlR0tJSkF4azZkRF9KVUp3dTNYbjBQdkRZbVdGVEl2T21sVFRRWnpvb1VPZF9hRjFuLVVHVHNQWDgwZ09MS21Cck5KZmM2RDJRclZMR1diUC1QbzkzbkdjME0wX0VSUVBGZ0pYZkF2S3RLamROMlBmUVB0N0g4blNXdE9NWkVXbzZyUlFqeFBNY29KcEE5Z2FvUFM3OG9CZmRuM3hNbVgyWmxseDFUM3BlQVlfZFVVUlRfaGR1Q1ZpbENzNjRk?oc=5",
+      "category": "Everest",
+      "past_days": 30
+    },
+    {
+      "search_name": "Everest",
+      "search_query": "\"Everest ransomware\" OR \"Everest threat actor\" OR \"Everest cyber attack\"",
+      "title": "Frost Bank, Citizens Bank data leak: Hackers set 6-day deadline for full dump - Cybernews",
+      "title_en": "Frost Bank, Citizens Bank data leak: Hackers set 6-day deadline for full dump - Cybernews",
+      "published": "Tue, 21 Apr 2026 14:17:13 GMT",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUWpXLTZIaDdRb1hGQ2JHVE9IUllhaHNzVEpQemRqRGt0Xzh1NWVoOEo4MXVxcU9SN1hZVjFfeHJ0bHN4LTNCeFdRMU1VU2wyRkJ4RmdUa04wd1FaeDRCUFkzZjlXeXdoR0kwQlA4cG9CRm9DOVRiU05NQzFkOXNGbms0aw?oc=5",
+      "category": "Everest",
+      "past_days": 30
+    },
+    {
+      "search_name": "Lynx",
+      "search_query": "\"Lynx ransomware\" OR \"Lynx threat actor\" OR \"Lynx cyber attack\"",
+      "title": "Royal Chemical Data Breach Investigation - Claim Depot",
+      "title_en": "Royal Chemical Data Breach Investigation - Claim Depot",
+      "published": "Wed, 25 Mar 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JUDJHRlItNWx5OVpvaW5ET2x0RGc3cExaY0dsTDIyNFlOVmFWSk9feWJVMGN3bXY5WkgxbF8taTBqYkplVWI0SmVRRjFzS2VUaHJJNk5wSTNkSk5HYzlXb1otUjFaeUNvOHJqU3ZOZnNUalVDOGVTZXliUWNPQQ?oc=5",
+      "category": "Lynx",
       "past_days": 30
     },
     {
@@ -58,19 +78,29 @@
       "search_query": "\"Play ransomware\" OR \"Play threat actor\" OR \"Play cyber attack\"",
       "title": "World’s most powerful demolition robot maker allegedly hacked - Cybernews",
       "title_en": "World’s most powerful demolition robot maker allegedly hacked - Cybernews",
-      "published": "Thu, 02 Apr 2026 15:17:13 GMT",
+      "published": "Thu, 02 Apr 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94WlRwVV8zWWxrbXg1cTRzaXN1Y3NLRmZ5MUxLNWFGei1GQXZJR3lIbnQtNDRzLVFoc1NRVGI5bnVmbW9wMVEyREtMQksxZzAwLUtOUWs0MG04NWdfbW0zZ2R4WGM4SURWeTIydg?oc=5",
       "category": "Play",
       "past_days": 30
     },
     {
-      "search_name": "Cl0p",
-      "search_query": "\"Cl0p ransomware\" OR \"Cl0p threat actor\" OR \"Cl0p cyber attack\"",
-      "title": "Oracle EBS Hack: Only 4 Corporate Giants Still Silent on Potential Impact - SecurityWeek",
-      "title_en": "Oracle EBS Hack: Only 4 Corporate Giants Still Silent on Potential Impact - SecurityWeek",
-      "published": "Mon, 16 Mar 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMFJyOUtVUndEV0tOLTJ2NGluWEo4allSbTY5dmVLcEFrUUI4Ym1IX2tJMDcxWDNJZTVDSGdNREpqMTJGRUhrQ1dzWTdHdVJSRWxsMTNPOXpfdUNoNC1ydXMtSW5BSzdHVTB4TTFPVS1HNnVkcExSYzJTT3hlVDR0TEw0bXhrOGhVT0dDTWt2ZmtSb0drVmhzdXFCVlJRSGZ2Nlp6SdIBqgFBVV95cUxNb3lIOVczcGZVblNTWkJ2b2RSbHZPMXZEaTNtNUFWR2w0YUR5QVFOMFlNcHpsUFhtbDM5SEhrdnN4cG81b3BkRjdLSWNUVGJVMU5xZTNBbk9FMk9qNXJRR1pWWWRmeVR5R3kwZHhnNjVQV2x6YUZabFVsVmVxN2sxLWprVDdmY0g4UGVjdWFXcUtfaG1MRHR4LTNlbFE1TVhQel8yYmJuQXE2dw?oc=5",
-      "category": "Cl0p",
+      "search_name": "TheGentlemen",
+      "search_query": "\"The Gentlemen ransomware\" OR \"The Gentlemen threat actor\" OR \"The Gentlemen cyber attack\"",
+      "title": "DFIR Report – The Gentlemen & SystemBC: A Sneak Peek Behind the Proxy - Check Point Research",
+      "title_en": "DFIR Report – The Gentlemen & SystemBC: A Sneak Peek Behind the Proxy - Check Point Research",
+      "published": "Mon, 20 Apr 2026 12:59:45 GMT",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TNFo0NVdKT29oOWt4YVlBTlJvYy1rVUwyaVVjWERmVG93UEYxeXlabmxTUkUzNVhJRnJWQXpmTlpIM0l1bVVOaVdKNlcwdWlCV200TkhLclpMMEItTi0yWDhtN0JaaU9lMGdPbnZNLWU?oc=5",
+      "category": "TheGentlemen",
+      "past_days": 30
+    },
+    {
+      "search_name": "Medusa",
+      "search_query": "\"Medusa ransomware\" OR \"Medusa threat actor\" OR \"Medusa cyber attack\"",
+      "title": "Ninja Forms – File Upload: Vulnerability Puts Thousands of WordPress Sites at Risk - SecNews.gr",
+      "title_en": "Ninja Forms – File Upload: Vulnerability Puts Thousands of WordPress Sites at Risk - SecNews.gr",
+      "published": "Tue, 07 Apr 2026 11:48:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaUh3ankyVndaMzk5WHpRSTlaWHBMY1BCMzdrdXl3aXNKV1B2ZlYtQkFXaXRMNzI3QnF0RGU0cl9kWVhyczVlUjBUTkhPNE5lLUpsX3NlT0ZqTGhWUmRFSEp1ZWhBOXU5SVhYV3V1NXZDclNoTkJVZTlOMlBtYnI5YWVrbw?oc=5",
+      "category": "Medusa",
       "past_days": 30
     },
     {
@@ -78,7 +108,7 @@
       "search_query": "\"Cl0p ransomware\" OR \"Cl0p threat actor\" OR \"Cl0p cyber attack\"",
       "title": "Check City ties 320,000-customer breach to Clop, sends notices a year later - Cybernews",
       "title_en": "Check City ties 320,000-customer breach to Clop, sends notices a year later - Cybernews",
-      "published": "Fri, 03 Apr 2026 02:18:32 GMT",
+      "published": "Fri, 03 Apr 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVjh1dnZNRTVTaTZRaTU5VEVndENhVzBmb0pnOUtzSW5XcW1IRTM4YU5uQ1NPRTJnbVRHQzJTSllvaTFLVTRaN2xkZDl1WDl3dVdVZUJ1YkVCajZpTzdjdGtuT0pEV1FJS0R0emJ2UTNpeHNIOEtLMUVKTVgyRWxSUVJPR2xBalU?oc=5",
       "category": "Cl0p",
       "past_days": 30
@@ -86,30 +116,40 @@
     {
       "search_name": "Interlock",
       "search_query": "\"Interlock ransomware\" OR \"Interlock threat actor\" OR \"Interlock cyber attack\"",
-      "title": "Cisco’s latest vulnerability spree has a more troubling pattern underneath - CyberScoop",
-      "title_en": "Cisco’s latest vulnerability spree has a more troubling pattern underneath - CyberScoop",
-      "published": "Wed, 18 Mar 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9iSGlPV1BTWUYzbFl5blZwd21tcG1TelI5OEZXNnhUbXlOWDFzNjQ3R0Z3RnhtUGtxbmNNVC0wLTEwWVl0OWdCRDZCVmpaZDZZSlFkVzZmU1ZaTjZhSFhOWjhzVW1HWHhpNU4tS2xReWxKY2FvcmdiQUFkaw?oc=5",
+      "title": "March 2026 CVE Landscape: 31 High-Impact Vulnerabilities Identified, Interlock Ransomware Group Exploits Cisco FMC Zero-Day - Recorded Future",
+      "title_en": "March 2026 CVE Landscape: 31 High-Impact Vulnerabilities Identified, Interlock Ransomware Group Exploits Cisco FMC Zero-Day - Recorded Future",
+      "published": "Mon, 13 Apr 2026 17:56:08 GMT",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jT3dKNGlENm5NemlhRWhfeUZuMTRyWkNHenU3ZXA0VXlDT2w3NV9wN2xWcGZScEpUenVTMUYxdXcwMlV5RUkxZXhDREFyQ2RFN1FkeGduZzM0dTZGOHh4NDRkMzE3b2I1emd1Zw?oc=5",
       "category": "Interlock",
       "past_days": 30
     },
     {
       "search_name": "Interlock",
       "search_query": "\"Interlock ransomware\" OR \"Interlock threat actor\" OR \"Interlock cyber attack\"",
-      "title": "Hacker group claims theft of over 730K patient files from hospital in region - MSN",
-      "title_en": "Hacker group claims theft of over 730K patient files from hospital in region - MSN",
-      "published": "Mon, 13 Apr 2026 18:58:59 GMT",
-      "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxOd0R3ajlIYVB5bkMwX0N1NjVaQnQ3Nml5RUVEeTlFeWY4Z0Z0Vk51WEhnWUxuc0FicTFranc2VWZzeF83cVJOMkJuZDhwZXEzYXdpZ09WdjBtVmR3SmJDMGpReXctd0NybGl1ZVU5cGRzUGpOY0xOSVZfQ0ZOWDg3XzV4WllMV01IRElUOUFoVF91MXdZaTFFODUwbFFVcHd5d0FuZkdkRlY2THV3YzZWTXBFckc3Zk15OGdLTXd2bnUzSUUxNGFhdGVGUkI0NFNXQ0VSLU9rT2J4N2NzZjVrM0FvTnVyTWktS3FveGVIaW5MZDFRdWYtMVpnYnNXNC1NdUl5bjhPcnpFUEFUUUVack9pTV9YSk5VY3p3SW43Q0ZmQlVtQ0JSUHdVLU9nWjA5VGtOVDlpSHJBbjd1ZE5DQWJQaENRdFpLN0JhZ1JaRWg2QWFKNkZabjNsUHdyUWJ1enNGNElySnpPVVZ0XzlvRGJFSER6eEFz?oc=5",
+      "title": "RedSun Zero-Day: New Microsoft Defender Vulnerability - SecNews.gr",
+      "title_en": "RedSun Zero-Day: New Microsoft Defender Vulnerability - SecNews.gr",
+      "published": "Fri, 17 Apr 2026 08:32:21 GMT",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQUU4UFZNd0RzcGhnOGFURThuV1k4dEE4NTJYMktxcU5od056cmdmTlVGYzdGVXNqWDJ1N2d2U0VuMVRXeDNHVFRpVEFJQVFQN2hsNFh1c3JXSkNpR09tTmdYaGdVOFN4SmVRTHltVmpyRlhlREVjMnBNRlBMUFh6Nw?oc=5",
       "category": "Interlock",
       "past_days": 30
     },
     {
       "search_name": "Safepay",
       "search_query": "\"Safepay ransomware\" OR \"Safepay threat actor\" OR \"Safepay cyber attack\"",
-      "title": "Jeff Shell Steps Down as Paramount President Amid Legal Turmoil and Fresh Controversy - The Plunge Daily",
-      "title_en": "Jeff Shell Steps Down as Paramount President Amid Legal Turmoil and Fresh Controversy - The Plunge Daily",
-      "published": "Thu, 09 Apr 2026 10:18:23 GMT",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNWU1McXFRUGhLNWdFcWE5RS1CTXR2M2h5ZEkwWVZtLUwyQkRiMkNSZnRRVUIyZ1R5c2l2TXRXNllNVXZDOGRDb3ZyZ1FCZUd0VjhWQ1g1dGdlUnhSVTJsTGtuUl9LZlVEVWhja2xoSWtNbW9RNmRRTndreV8tREphY1NWSFVUT0tRQkhRSlUzVExhY2ZGVFlSUXlIWmY2c0pHemZ1VXhPaGJGbmxLYkpGLUdENDladTJnd2dhOVVGcTVIdzRkc0dUYzQ4eDRMN1BtVU5TRno3aWFYSjMtRzYtNHRwN3NPVXNzZU5MRnBxcE1aR1h0N25FTkRwaGtrX0E?oc=5",
+      "title": "Exclusive: Aussie passports compromised in alleged Favelle Favco data breach - Cyber Daily",
+      "title_en": "Exclusive: Aussie passports compromised in alleged Favelle Favco data breach - Cyber Daily",
+      "published": "Wed, 22 Apr 2026 02:52:25 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNHRLZ2Z2WU1JWFFac3pOQXk2Q3hfSFZveFNZMzhtd1V0alZETi14R0l6dTd3U2JxOE94NnMxYXJDSlpYY0ctOHQ3YXZQTmdrQWZicjBoS1lvZmtfYXltaUxuUFlGQjlRLXM1MUYtMlJZeEtVWmZ0dTRkYnNNeWx4Q2QyMWdNSGFKQWZTR3BmRFdjSEVEVHR1WGJXZWpQamxvaWRRMVF1U0M5NE1PV0J2T2Y0aEZxd1E?oc=5",
+      "category": "Safepay",
+      "past_days": 30
+    },
+    {
+      "search_name": "Safepay",
+      "search_query": "\"Safepay ransomware\" OR \"Safepay threat actor\" OR \"Safepay cyber attack\"",
+      "title": "Court Rules State Regulator’s Investigation of Blue Cross Blue Shield of Montana May Proceed - The HIPAA Journal",
+      "title_en": "Court Rules State Regulator’s Investigation of Blue Cross Blue Shield of Montana May Proceed - The HIPAA Journal",
+      "published": "Tue, 21 Apr 2026 09:55:49 GMT",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYTF6UXk1cVhMWW5MRkxmU2JOckw0LWp5eHNXN19JMEVSaWxacm9kSWZvMF96T0NicVh3eVRNblZxYUVnWG00RTNTQUFUMHlmZDdIbGtmYW9sbWFFcGhJb3lNR3NvUFpWbUczbTNzV2hwU0Q1QkRSUTRnNGpwOU5pZWhxSTM?oc=5",
       "category": "Safepay",
       "past_days": 30
     }
