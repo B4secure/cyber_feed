@@ -1,13 +1,15 @@
 name: Ransomware News Collector
-
 on:
   schedule:
-    - cron: "0 0 * * 3"   # Weekly Wednesday 00:00 UTC
-  workflow_dispatch: {}
-
+    - cron: "0 6 * * *"   # Daily 06:00 UTC
+  workflow_dispatch:
+    inputs:
+      run_mode:
+        description: "Run mode (daily / weekly / monthly)"
+        required: false
+        default: "daily"
 permissions:
   contents: write
-
 jobs:
   run:
     runs-on: ubuntu-latest
@@ -38,10 +40,13 @@ jobs:
       - name: Run script
         run: python main.py
         env:
-          PAST_DAYS:     "30"
-          MAX_ITEMS:     "50"
-          DUP_THRESHOLD: "0.60"
-          MODEL_NAME:    "all-MiniLM-L6-v2"
+          RUN_MODE:          ${{ github.event.inputs.run_mode || 'daily' }}
+          PAST_DAYS_DAILY:   "1"
+          PAST_DAYS_WEEKLY:  "7"
+          PAST_DAYS_MONTHLY: "30"
+          MAX_ITEMS:         "50"
+          DUP_THRESHOLD:     "0.65"
+          MODEL_NAME:        "all-MiniLM-L6-v2"
 
       - name: Commit outputs
         shell: bash
@@ -51,8 +56,8 @@ jobs:
           git config user.email "github-actions@github.com"
 
           files=()
-          [ -f data/latest_ransomware_news.xlsx ] && files+=(data/latest_ransomware_news.xlsx)
-          [ -f docs/feed.json ]                   && files+=(docs/feed.json)
+          [ -f data/ransomware_latest.xlsx ]    && files+=(data/ransomware_latest.xlsx)
+          [ -f docs/ransomware_feed.json ]       && files+=(docs/ransomware_feed.json)
 
           if [ ${#files[@]} -eq 0 ]; then
             echo "No output files to commit."
@@ -66,5 +71,5 @@ jobs:
             exit 0
           fi
 
-          git commit -m "Update ransomware news feed"
+          git commit -m "Ransomware feed update — $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push origin HEAD:main
