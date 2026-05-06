@@ -1,0 +1,80 @@
+{
+  "generated_at": "2026-05-06T10:31:46.346676+00:00",
+  "lookback_days": 1,
+  "run_type": "Daily run",
+  "feed_type": "ransomware",
+  "articles": [
+    {
+      "search_name": "Ransomware_Activity",
+      "title": "Conti, Akira ransomware affiliate given 8-year sentence - The Record from Recorded Future News",
+      "published": "Tue, 05 May 2026 17:40:45 GMT",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1QVnRFNVdjS1BJSGFuWHg3NXdXdXRtM3ZyamJpUTNocmctT1VHY0JkTjY3U1JPVTRkeldWWlVqNGM2WXdvOVVfdVdSVFk4OWUzMFZnX1I5M2RkbldVdXp4RDZpUElqcXgyS1lnelJYQUV2azR6?oc=5",
+      "past_days": 1,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Activity",
+      "title": "Healthcare Firm Suffers Major Ransomware Attack, Personal and Medical Data of 169,017 People Now at Risk - The Daily Hodl",
+      "published": "Wed, 06 May 2026 07:09:58 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPV1A1YWRTRkFjYzh2STVhZTE5Qll6WWNwRGdNbllVODdQVU1yUXUwazFYSUZNeTI4ZkhmMkdwVmVnb19heEs0QnB0S2NxWUtXOGY4LXdMcS1TSVhLTzVISXpJSEE5S0lYcUo1WG1VaEluT3VWZlI3ellZZWZBUFhfUnNwSE9VWTgycHVMZ3Z6WDViMmlwQndqZTUwdC1PLUl1eXVfWmxHOUN4dGZZT1ZfdnlEN2syZUdXTmM4S0ZpekVPTVl4VGk2MHNoVW9yWTBJU3fSAdcBQVVfeXFMUHh1bVhpLVZqblRJejJ0UVNseXJSOEh1MktnWkNPMlZPUVpSTUxxUFh0SDB3a19pYkxiZXR5ZGl3OVhWNk12dFRtY1JZdmh2NGlHcmxXcmdpS0E2MVVXRVh1Z2VFck5OYS1kZjcyZWMzX3loX3ZMaDVXSnhIdkQ5M05tUlpEZXkzRTVMcEVPN1FKdTN1Q2UyY3A5OXM1cVJuZk4xT2laSEo0UXYxczVDOVp6T2VkMk40TE9yeFRyVERIRVJlSXN5cTdxOEJLY0g5SG5jaE1QVFE?oc=5",
+      "past_days": 1,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Activity",
+      "title": "Incransom Ransomware Attack on Childplace Family Services - DeXpose",
+      "published": "Wed, 06 May 2026 00:19:54 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaUh4SmdIc2M1UHVaNVNIU0FtWmlVeXZyYVpPZUExTjlzVUxhTlBWLW9ZZGhGOWwxeHRTS0ZrZldhbXdWTHZxYUdXTXNCMHhrRDhxelJWZnRWTWE0cGtCX0ppRXZlMkpqc2puZUVJV3IyOE9DazBhcW82YmhpUmdsdFFaMnZCMFBJ?oc=5",
+      "past_days": 1,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Activity",
+      "title": "Two ransomware gangs now claim Cushman & Wakefield after Salesforce breach claim - Cybernews",
+      "published": "Wed, 06 May 2026 00:31:59 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVS1nZUoyR3RmVkZkbk5mMFAxVDlTeWg3bWRDUjVYbDd5al9SeWNpLXZBVEowMGhaSWZ0QmdGNnRkU3RkMUtmMzdSM0x3Vjlnd2hjdnFZdE5pa3JfTEJOMW5aMWhLRkl1V2NxODZBNjZ2R0p5WWhBQlJjVlJjY3VWaU5NYmJ0QVdLX2c?oc=5",
+      "past_days": 1,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Response",
+      "title": "Kash Patel skewers Nancy Guthrie case, says FBI has been 'kept out' - The Detroit News",
+      "published": "Wed, 06 May 2026 02:40:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWWE4VUhJMUZqbm5aa3Z4anItT2twcWRyZVRiNHgxV09EWVpfcHlfT0Jlbzg5RTd4M2lBV3lQanZsSmsyQ2RzNVpQNmo4VTBBVXhwMVFyYUtrbU1kNkZZSGFCNWRyVWhzdHQxZDdKVlAzQkwxZzNKR2xTbVBlcUtDR1JiNWtGUndRRFhZUnBScnFkc3JZcDd1S0pYSEpMOFgzMnFHQVF2RDVFNWtUUG1iemJXLWhESnVqQUV6SXRySXNkdWZ0M1hXNXVpbw?oc=5",
+      "past_days": 1,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Response",
+      "title": "Rochester Police, FBI Boston Disrupt Drug and Gang Activity at Seasons Corner Market - New Bedford Guide",
+      "published": "Tue, 05 May 2026 12:04:50 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWDZISGpHYmZqUm5MVnRjN1BxOFNacTBjSUtmS283OEFka1RjRm5jWnhVdmtOSl9vTG00QU5zaURsM0F5S0U4MWozZjlCVm9BRlhFWGpyZnlGNXNMZ3M2ZUpuMUd0eDZ5X1VsUGNHMjV6RXNWdjAzdUJVeUVHTkR0RDRhVXpadlVhSmtBbkZ0TmtSU0tXTjNqZlFrZWVTakdkc3hhX2tJbXplZXk5N3JJdmxFNUhrRV9FTDAw?oc=5",
+      "past_days": 1,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Tactics_Threats",
+      "title": "Fake SSA Emails Drive Venomous#Helper Phishing Campaign - Infosecurity Magazine",
+      "published": "Tue, 05 May 2026 14:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdmRDWGZGUGtyVzBtM0U5MjZPMTdEMnRiRXliQWl3dnJZUVJ6Um9mWEg2QktzWTM2N2RodTVlNE15ckFuZEZtcFhGOWdMRUhkelVYbHV1VXREVWlBUnJ3a1Z6V3A1RFFlMXVKOTVheVN6cWxPaVhFa0hJWEd6UlpnMUdxZ0FhQQ?oc=5",
+      "past_days": 1,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Vulnerabilities",
+      "title": "Critical Palo Alto Firewalls Vulnerability Exploited in the Wild to Gain Root Access - CyberSecurityNews",
+      "published": "Wed, 06 May 2026 02:57:39 GMT",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FMVpjODlJa3cxYUE1T0pDeW9wTFRscDJ4X0h2UDhxNGJpZzZnaFNCX1BPTjNILTdLcEl4MzR6b081emMwRzhMbUNLcDlQck92cnlrZ0QwVS1BakU2X0N1ek9LTGpPN3VIUDJ6MEZnNW5tQldIODMzM0VFMnFsTTjSAYQBQVVfeXFMTWE4TjM4V3RBS1pzbGRXRFF0SEZvNDlRSnpnb0M5Zk0wRDJ1SkcwVjh4cFo1WWFWQmxEYUFFNEtVTXNvbjJKWHI4U2lYc0JuTnpBejBLdGRMWjF2dC1HSDFad0taWEdKc0xQMkp6S05MTmUxY0N3U3hyODhELXdIbDZDZUZN?oc=5",
+      "past_days": 1,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Vulnerabilities",
+      "title": "AI-Powered Tools Accelerate Zero-Day Exploitation For Cybercriminals - cyberpress.org",
+      "published": "Wed, 06 May 2026 00:13:52 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53SGZiNDllcmFuQ2xVNzNnMVFyZ3FJMWhNbGVrdGxsNmJZd2pOQmRmTkpKM3JmanRYZUtHUkpDT3pIeVhYeTh2V0VKcU4wOXlZdlRRMGhaTlZqMXM1SHVPTHFmb1JuOWs?oc=5",
+      "past_days": 1,
+      "source": "google_rss"
+    }
+  ]
+}
