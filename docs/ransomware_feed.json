@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T07:20:44.244292+00:00",
+  "generated_at": "2026-05-08T08:37:58.835452+00:00",
   "lookback_days": 1,
   "run_type": "Daily run",
   "feed_type": "ransomware",
@@ -14,17 +14,17 @@
     },
     {
       "search_name": "Ransomware_Activity",
-      "title": "Canvas is down as ShinyHunters threatens to leak schools’ data - The Verge",
-      "published": "Thu, 07 May 2026 21:29:27 GMT",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NbFBxc0I2NUtITnYySkRGZkFzS2x6ZXJGSFpfYW5BMVg0dDhacFBoMFdVOFpsWW40ZVBRSWtfNUtoNFdiQlhNdWNKWkgzREJJRFoyR1RxdDBKa3FsQ0RWSnp1VHpKYUpSdTBpTzJkNFo?oc=5",
+      "title": "Canvas Online Learning Platform Shut Down for Hours After Cyberattack - nytimes.com",
+      "published": "Fri, 08 May 2026 05:58:42 GMT",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYkVKaXAwWVMxYzZVU0gtSnJaZkFCLUhOWkJENjdmQ0licjI3QklrTmhhakphbzc4RlBETUlWR2J6U25QZmkwbVBFRmo1NTVtUWFRSFBCUDBEbmI2ZjFQajMxQXFWeDE1Xzc2dFdtWXgtVGJHNFI2UG5SWTgtSVozdGozbVV6cEE?oc=5",
       "past_days": 1,
       "source": "google_rss"
     },
     {
       "search_name": "Ransomware_Activity",
-      "title": "Canvas Online Learning Platform Disabled After Breach by Hackers - nytimes.com",
-      "published": "Fri, 08 May 2026 06:16:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYkVKaXAwWVMxYzZVU0gtSnJaZkFCLUhOWkJENjdmQ0licjI3QklrTmhhakphbzc4RlBETUlWR2J6U25QZmkwbVBFRmo1NTVtUWFRSFBCUDBEbmI2ZjFQajMxQXFWeDE1Xzc2dFdtWXgtVGJHNFI2UG5SWTgtSVozdGozbVV6cEE?oc=5",
+      "title": "Canvas is down as ShinyHunters threatens to leak schools’ data - The Verge",
+      "published": "Thu, 07 May 2026 21:29:27 GMT",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NbFBxc0I2NUtITnYySkRGZkFzS2x6ZXJGSFpfYW5BMVg0dDhacFBoMFdVOFpsWW40ZVBRSWtfNUtoNFdiQlhNdWNKWkgzREJJRFoyR1RxdDBKa3FsQ0RWSnp1VHpKYUpSdTBpTzJkNFo?oc=5",
       "past_days": 1,
       "source": "google_rss"
     },
