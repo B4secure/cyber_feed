@@ -1,70 +1,54 @@
 {
-  "generated_at": "2026-05-07T08:22:17.301517+00:00",
+  "generated_at": "2026-05-08T07:20:44.244292+00:00",
   "lookback_days": 1,
   "run_type": "Daily run",
   "feed_type": "ransomware",
   "articles": [
     {
       "search_name": "Ransomware_Activity",
-      "title": "Iranian cyber espionage disguised as a Chaos Ransomware attack - Security Affairs",
-      "published": "Wed, 06 May 2026 14:34:20 GMT",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTFVxSlBCYkhLcUt6R2F5d3p5NTlvY0taX2ZEbTQ0RndxLVJfT1pMY3RWeWF1TF9CUTRXSHhsb2cySnp5YlFhQS1fMGk3TXVaMXBmVFd6NlpNalJUX1RqLTU0TWlkcTRSVmd1a05uNjhiNHdSNkt1LVlESlBsUDFJQ1J3NmVmUEZhdTNta24tM2l6ZS1MNXFwSnZzamZ6THFteGdRaExBbkthTHN6T1Bpdkc0MGRWYms?oc=5",
+      "title": "The Canvas Hack Is a New Kind of Ransomware Debacle - WIRED",
+      "published": "Fri, 08 May 2026 05:02:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQX0xFcmVYLTF0WHh2eTJsVlp0SnplSDd5RTZma05tUHdGNFpMOFZRZTIxc1pEOXpMSm9taWR5VnZ2OUh4QjZOZUVJRkVkWEpCaUM1MzNWTEpObXBwYVpvdWpwQlYxLTFnT2kxcEtCVzVJZVFBVTZUQ1g0S2xreXhwVmRR?oc=5",
       "past_days": 1,
       "source": "google_rss"
     },
     {
       "search_name": "Ransomware_Activity",
-      "title": "MuddyWater Uses Microsoft Teams to Steal Credentials in False Flag Ransomware Attack - The Hacker News",
-      "published": "Wed, 06 May 2026 13:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5kNURveUh3MVVUNnZRS2pZV3FPQkpOV29hd29XajJyLUoyeEdNZndQb2ppMjVHVnpZLWFtWFRtTTlyX2ZnaHk5dnZnZE9NQ2hnNGJwTjR3c2x4VkdCeUxRajF0ZzBPQzhhN1ZNVXR1WWdhc01OdjRLRm5fTmxvZw?oc=5",
+      "title": "Canvas is down as ShinyHunters threatens to leak schools’ data - The Verge",
+      "published": "Thu, 07 May 2026 21:29:27 GMT",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NbFBxc0I2NUtITnYySkRGZkFzS2x6ZXJGSFpfYW5BMVg0dDhacFBoMFdVOFpsWW40ZVBRSWtfNUtoNFdiQlhNdWNKWkgzREJJRFoyR1RxdDBKa3FsQ0RWSnp1VHpKYUpSdTBpTzJkNFo?oc=5",
       "past_days": 1,
       "source": "google_rss"
     },
     {
       "search_name": "Ransomware_Activity",
-      "title": "Starr Insurance Discloses Ransomware Attack - The HIPAA Journal",
-      "published": "Wed, 06 May 2026 13:43:13 GMT",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81SDAxQ2t0Y0VUdWZIVXRIaVUzSEZBQm5Wc01wNWEtcF9fU0hfRDNucFNBdHBuNm9IYmlDN25nSXhlVTlmMXZTckIxQWV3NHFBRm5Hd2w2VFZYcDlMMjFFX2FvdlBVMXVsTFc0MXNQTXI?oc=5",
+      "title": "Canvas Online Learning Platform Disabled After Breach by Hackers - nytimes.com",
+      "published": "Fri, 08 May 2026 06:16:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYkVKaXAwWVMxYzZVU0gtSnJaZkFCLUhOWkJENjdmQ0licjI3QklrTmhhakphbzc4RlBETUlWR2J6U25QZmkwbVBFRmo1NTVtUWFRSFBCUDBEbmI2ZjFQajMxQXFWeDE1Xzc2dFdtWXgtVGJHNFI2UG5SWTgtSVozdGozbVV6cEE?oc=5",
       "past_days": 1,
       "source": "google_rss"
     },
     {
-      "search_name": "Ransomware_Groups_New",
-      "title": "National cat charity on the prowl for Shetland volunteers - Shetland Times",
-      "published": "Wed, 06 May 2026 13:09:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdnJuMjFLUmtHMXZZSEtTX0Y5UVBGWkI4RDJvRXE1Y1NEVEF4dGs2Q2xxc2V3bk50TDNtZVZncVN6alVzXzJ5SGJHU2dEOFF3eXhhTFJjLVdmQ05WUV81d1hzcWN5bThLZUVrQldCOEFRMjNpZVhpRWJnc3JaVGlIejM2SHFhTnBRbGZxY0JGaGQ2UEdqazJzU2kwR1lEZUFnNE5RVw?oc=5",
-      "past_days": 1,
-      "source": "google_rss"
-    },
-    {
-      "search_name": "Ransomware_Groups_New",
-      "title": "Cactus Announces First Quarter 2026 Results - Quantisnow",
-      "published": "Thu, 07 May 2026 03:41:15 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLUNZa2hsRlJoOE4xa19WemItd2pncEtzV0hlM282SFhWMmJvTTBYd3RXZGIwVjZjcVFZWUE0TTNnUkdRU3BtbkZvNlM5SWprWVA5QnZpTmhiR3Ffcll0WEF6aVV5WWJnTWpteDRMckR3SXNSSnJhdmJWek14M1lxTUJjZHZENEJ3NGc?oc=5",
+      "search_name": "Ransomware_Activity",
+      "title": "LBUSD, Cal State, LBCC grading platform hacked in apparent ransomware attack - Long Beach Post",
+      "published": "Thu, 07 May 2026 22:24:59 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVE5hRmNKMVJJQkRwWnZBdldPSXBFZlhfdmx2TTMwOTZIbnJvRW1qY2pXTnR1Q3gxclhWeHNyTXFlMWlOSVFtMEluWE02Q3dXeTM3dENMQndYRHNKcHFBWjZ5djdsODBaa2VDQW9lY2Fucy1wQm5jMEFrZGk1WGtJREQtM29NYXlaUjV2U3ZCRlJLRmZwQVMtSjFleFpmUWZndWtuWVQybWFKNGs?oc=5",
       "past_days": 1,
       "source": "google_rss"
     },
     {
       "search_name": "Ransomware_Tactics_Threats",
-      "title": "Autonomous agents are reshaping AI security - SiliconANGLE",
-      "published": "Wed, 06 May 2026 18:33:49 GMT",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX1VVNlJSdlo3VWZ3Nzk1Q3pCMV9weTE2alBBeWFpNE5KTWtFQlJHVG9Zd1pyOU5sZU9NM1ZNcGJ1dVVIbDYyV0ZfRnUxUFJiRlhROUdNQUR0OEpIMG5fcEtyMEpqYldnZ0c4cFF3bXl3SEhmNmN3YWQ1MmtHMnFDYmQtUFI0TkE5WmdIY0RfVnoyVUEyZE9ZVWlqaXNnQkFlSG1HUg?oc=5",
+      "title": "Scammers Exploit Disposable VoIP Numbers to Bypass Reputation Blocking - gbhackers.com",
+      "published": "Thu, 07 May 2026 09:52:57 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1BUm1mYUYwLVRZdkJqUTRHemlEYzU3V092c2xpRWNzcGtXTHI0MV9DTnFCcEdHZVVzV0hpLWtJQXNXZldEMXYxZThOZURIeHFhMFBEcEpEQkRydjYxXy15dS1ObTRJUQ?oc=5",
       "past_days": 1,
       "source": "google_rss"
     },
     {
       "search_name": "Ransomware_Vulnerabilities",
-      "title": "Critical Buffer Overflow Vulnerability in PAN-OS Exploited in-the-Wild - wiz.io",
-      "published": "Wed, 06 May 2026 12:33:26 GMT",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOThjQzR2cXh2bVRWcEcwcHA2YWZGTTczUjc1dmlKQWtsRjVzZzRLRjJ1N2hzS2twbDhiejNhNDJlVi00UEZjSWZPcjZBRUZURGttMmgzemVVWExFUmY1OEJVQVB6RG52dWRiTkl5TkFZbFJZamxZOXVtYTc5M0VPNzhsbmhSVWF1UElPa2tUME42UHBfUFlR?oc=5",
-      "past_days": 1,
-      "source": "google_rss"
-    },
-    {
-      "search_name": "Ransomware_Vulnerabilities",
-      "title": "A critical Palo Alto PAN-OS zero-day is being exploited in the wild - CyberScoop",
-      "published": "Wed, 06 May 2026 19:50:39 GMT",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYVdGSDdxYnVzc0t2Uk5SUDJsVUlDNVgxQlVNdzI5SkluYWhBSlVPeDNkN2RTS1JCYm1Kd1dfTVdyazNCNl9WNVNEa2JJWjJlR1FSU1Buei1Yd0hWdHRrZ2U2VHZDMmpBWVdVaTh5WXRPTnphTUtDTzlLUnJrMzR0dWFLc2p4TUhNSlBRV3ROcU94OVZSeWc?oc=5",
+      "title": "Ivanti customers confront yet another actively exploited zero-day - CyberScoop",
+      "published": "Thu, 07 May 2026 21:59:16 GMT",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hajI0N3NVXzBmY3hHZzBjV21GaUZ4TC1vdy1jekNQdnVZbjV2VFJtRHM4Q0VzRUh1Wlg0ek40S2NNbkY0VXFabVktWFdiaklPZmFqT2czbmJBaVVsV3JRZXZWZVNmamVhMkNHellRbC1KdkxVVGJZ?oc=5",
       "past_days": 1,
       "source": "google_rss"
     }
