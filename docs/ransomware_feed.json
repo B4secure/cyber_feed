@@ -1,40 +1,7 @@
 {
-  "generated_at": "2026-05-10T08:01:27.785861+00:00",
+  "generated_at": "2026-05-11T09:29:00.456724+00:00",
   "lookback_days": 1,
   "run_type": "Daily run",
   "feed_type": "ransomware",
-  "articles": [
-    {
-      "search_name": "Ransomware_Activity",
-      "title": "U of I restores access to the Canvas learning platform following ransomware attack - IPM Newsroom",
-      "published": "Sat, 09 May 2026 21:19:26 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV1FwaDZ5Q3R0RzRCSEJlOUpFeTNqNVlqYV9vMUxZYVY4bUFRcV9MVlVxdFNNQXdCMzMwZGl4NzR6RUpETWdVZnZGUHRMTXVkSGZVcEt5Y2JoR19fajFVaUJCYUZqTS1jYTdhMy1MSFNHV05mc19QdU5Fa29RR296SXVuclcyWkFkSTZRMExVbENYeks3NHdMV29JZldhSm9ES2h0WG5aWkVOQQ?oc=5",
-      "past_days": 1,
-      "source": "google_rss"
-    },
-    {
-      "search_name": "Ransomware_Activity",
-      "title": "Lamashtu Strikes Ashtech Infotech with Ransomware Attack - DeXpose",
-      "published": "Sun, 10 May 2026 06:48:08 GMT",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdUxLNGpZdmZCWHVWT0JQRWZZbmtZSUFreTVxdjdZNVZEZmV0MW5Idl8xY09Lb1VFdC1FaWJVZUM3VW1wbnp1eUVqYjRkMXJSWUJyTlhUR3BJNTdHWkEwaGZSYy1NejVPdGdKN1VuYi02UGJ4NXE2Q1dMVVBmX25rZW1JSFVDYWc?oc=5",
-      "past_days": 1,
-      "source": "google_rss"
-    },
-    {
-      "search_name": "Ransomware_Activity",
-      "title": "Ransomware attack wipes out finals week at ISU, thousands of other schools - Idaho State Journal",
-      "published": "Sat, 09 May 2026 19:28:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOWG14eF9VdElfRjNFRExQaWw0dU5hYVp0dnZmc1pYSlhlVFZqcmlvdC1pZlB2aXlKX08tcVUyWnN6WjFEVE5ULWFvcThMVENhM2lIdmlMbFp3em9fRFNET2w4ZTA2dEJVOVhlMXRvbXl2ZjdTcmFLVU9ncGJkMC1MVTNveDctVVQ2c0VseklNbDBEZ3BqeVB5aWtxOTBYRGMwYXlXWV8zSVZ4UUtDY3U1czdHTUY5OGJaUnFncl9UbFdOUi1KYlVNM3dzQ1FabzdGZ2NpcDN0b2lPVHJjX1pEcEFZV2dHUnZtMUxuSXVaODNNOGxnaHFfNmdpaFbSAYICQVVfeXFMUE84WmxjcVV5dU5aQy1ObHR2T1hYcUhCeFFOb3NDR21qWUV6cldRay1OQXZGS0p2cWc4eC1KVkYtWTZFVmdPcks0OVRIM3VYWFVFbWZ5U1RqUl9WcDhGR0VPelFVX045MHl6emVVbG5ZS0VsbHVURmo3MUxnY19DeVo0UDJuc0JrRHJpLUcwT3U5c1dRNXE2ZEMwOTY3VUpHY0FfYTl4Y2RubGdSVy1qY19oaWNRYnFIMXBJNkNtVHg1TlRuNHVtYURFb215RFJZcXJXQzF1T19ROUN2ajAzWFBBMG1ud0U3Z093ZHlqQWpmRVFGWVNkTUJrczByTEtNdnBB?oc=5",
-      "past_days": 1,
-      "source": "google_rss"
-    },
-    {
-      "search_name": "Ransomware_Groups_New",
-      "title": "UAE weather update: Humidity, fog and winds expected this week - Gulf News",
-      "published": "Sat, 09 May 2026 20:00:32 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN1l3eWttNzhGOTBfOURiUndkS1Nnb2tRLWlHYlFxYUkyRy0zNGRGNFVTdTBoS1l5U09Rbm9vWWJuV1hpd0JYRlZkYmIzdzZnUW5HYW93cVZhc3ZCU0ZwYTYtT1JFRFVVRGR1RE5NNEdMaUZjTW9QQkNIZ3YzejZqYVpVRHI4VGxYZ25GWU5xazZKaUp5S3paN1pVeFVoRE94RnRuSDhnYjPSAbsBQVVfeXFMUF9SYXktWFJZVmtQQ2F2Wk1EN3dwNm10YjIxRU1QTEE5NmxUVWpBUWN5dFdGTGtaRGJPMzZ5b01ZQmZQTlpJeGo1Y1o2NmItTzZfd0ppQU5CbFo5b3BqQ2lWRkNXN1NCUjNxTnpUVVJZYjg2Uzd4SWFHak9qM1plcW82cjlCNWRrOWswZjZRUGVvLTkyNFB0OGJfM2ZQMlJiLWNkQWRTV0VOaW5yblNnQmRzZHNnVHEtT1lRUQ?oc=5",
-      "past_days": 1,
-      "source": "google_rss"
-    }
-  ]
+  "articles": []
 }
