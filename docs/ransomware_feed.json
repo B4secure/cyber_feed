@@ -1,7 +1,352 @@
 {
-  "generated_at": "2026-05-11T11:46:44.404195+00:00",
-  "lookback_days": 1,
-  "run_type": "Daily run",
+  "generated_at": "2026-05-11T11:51:01.523276+00:00",
+  "lookback_days": 30,
+  "run_type": "Monthly run",
   "feed_type": "ransomware",
-  "articles": []
+  "articles": [
+    {
+      "search_name": "Ransomware_Activity",
+      "title": "International cyber attack disrupts swathe of universities and schools - BBC",
+      "published": "Sat, 09 May 2026 01:17:55 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxZW9KSEdtMm1maTdXV181LVdFTWhUUElaMWhrd19KTUpTdW5wVXRBNmlPbXl6QkgwRjJlcW5HMFFLR01ZRTBXOXBCdml3UXpzMVNyQ09tcGlyUQ?oc=5",
+      "past_days": 30,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Activity",
+      "title": "Millions of students’ personal data stolen in major education breach - Malwarebytes",
+      "published": "Wed, 06 May 2026 13:00:25 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYnlDUU1uWjQzUmRtZDlpLUJjZXdrQVRkNG44ekthTTNZY1RjS2JpQzJuVzhiUk02aVd6S2I4blVGYnRUSVowRlJUMUw2LXc3X0ZvN0JnaEVtMWVrRVBQbnVhU3laWHpCMGVmLW96X3l6RWJ6VWhUSklfcG1Ed0p1QVI3N3p2aE1jVkdENl9CTDZsUWV5c2FWYThlRmcxV2VCMXcxS19Ua3ZTUjhOa1p5OXRtZXVwVV9naEtR?oc=5",
+      "past_days": 30,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Activity",
+      "title": "The Canvas Hack Is a New Kind of Ransomware Debacle - WIRED",
+      "published": "Fri, 08 May 2026 05:02:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQX0xFcmVYLTF0WHh2eTJsVlp0SnplSDd5RTZma05tUHdGNFpMOFZRZTIxc1pEOXpMSm9taWR5VnZ2OUh4QjZOZUVJRkVkWEpCaUM1MzNWTEpObXBwYVpvdWpwQlYxLTFnT2kxcEtCVzVJZVFBVTZUQ1g0S2xreXhwVmRR?oc=5",
+      "past_days": 30,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Activity",
+      "title": "Education Sector in the Crosshairs: ShinyHunters' Extortion Campaign Against Instructure - Halcyon",
+      "published": "Sat, 09 May 2026 01:13:11 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX2xBUGdDOHBOMno4Q3F0VThjR3JQZDg0TzdJRFhlY2NjMUVSVzVFcXdSZzlNZGNnMkdOc3hLTUU1UWY3UExYcjhrZTVSWU1INWs1cVZyWGNhd0JjTmZaUEhNS0JHbmpvaVZiNnFtRF9XZjd1ZGx4MFpwMWFwdy1VSDBXRmZHaTlGcXBzcjRka2RsbXZqUHB0SHBialB4bmd3MDdwUEI3OHhEUGZzTE1tTVdUZ3RMbVBfNlIxUFlYdU5qQ243bFE?oc=5",
+      "past_days": 30,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Activity",
+      "title": "Iranian cyber espionage disguised as a Chaos Ransomware attack - Security Affairs",
+      "published": "Wed, 06 May 2026 14:34:20 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTFVxSlBCYkhLcUt6R2F5d3p5NTlvY0taX2ZEbTQ0RndxLVJfT1pMY3RWeWF1TF9CUTRXSHhsb2cySnp5YlFhQS1fMGk3TXVaMXBmVFd6NlpNalJUX1RqLTU0TWlkcTRSVmd1a05uNjhiNHdSNkt1LVlESlBsUDFJQ1J3NmVmUEZhdTNta24tM2l6ZS1MNXFwSnZzamZ6THFteGdRaExBbkthTHN6T1Bpdkc0MGRWYms?oc=5",
+      "past_days": 30,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Activity",
+      "title": "Conti, Akira ransomware affiliate given 8-year sentence - The Record from Recorded Future News",
+      "published": "Tue, 05 May 2026 17:40:45 GMT",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1QVnRFNVdjS1BJSGFuWHg3NXdXdXRtM3ZyamJpUTNocmctT1VHY0JkTjY3U1JPVTRkeldWWlVqNGM2WXdvOVVfdVdSVFk4OWUzMFZnX1I5M2RkbldVdXp4RDZpUElqcXgyS1lnelJYQUV2azR6?oc=5",
+      "past_days": 30,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Activity",
+      "title": "Canvas is online again after ShinyHunters threaten to leak schools’ data - The Verge",
+      "published": "Thu, 07 May 2026 21:29:27 GMT",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NbFBxc0I2NUtITnYySkRGZkFzS2x6ZXJGSFpfYW5BMVg0dDhacFBoMFdVOFpsWW40ZVBRSWtfNUtoNFdiQlhNdWNKWkgzREJJRFoyR1RxdDBKa3FsQ0RWSnp1VHpKYUpSdTBpTzJkNFo?oc=5",
+      "past_days": 30,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Activity",
+      "title": "“PAY OR LEAK”: Hackers Target Big Higher Ed Vendor - Inside Higher Ed",
+      "published": "Tue, 05 May 2026 22:39:01 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdV9iUXJTQXIzMWJEX1VDZ2d2Wl8xdFk2cS1GbE83TnJicTlNQjVNNlBCZWZNeTF0SUNqU0hfenZJa1h4NVZ5djl1XzVpTXRtTENRdDB1TWtiNzk2OEIyLWdhdV9OTVlrTl9sWmphR2t0b0tiS1Y0YmhSVDhLRkdhN2FJbWRvNjg3bzVEVTd0bWd2RzVUNlFULU9QczJ2VUNidkRRc2xSQWFmdUNtNVZtMS05bjlzUTNvQ01DcGJNY0UxdW9DMVRqbTJn?oc=5",
+      "past_days": 30,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Activity",
+      "title": "MuddyWater Uses Microsoft Teams to Steal Credentials in False Flag Ransomware Attack - The Hacker News",
+      "published": "Wed, 06 May 2026 13:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5kNURveUh3MVVUNnZRS2pZV3FPQkpOV29hd29XajJyLUoyeEdNZndQb2ppMjVHVnpZLWFtWFRtTTlyX2ZnaHk5dnZnZE9NQ2hnNGJwTjR3c2x4VkdCeUxRajF0ZzBPQzhhN1ZNVXR1WWdhc01OdjRLRm5fTmxvZw?oc=5",
+      "past_days": 30,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Activity",
+      "title": "LBUSD, Cal State, LBCC grading platform hacked in apparent ransomware attack - Long Beach Post",
+      "published": "Thu, 07 May 2026 22:24:59 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVE5hRmNKMVJJQkRwWnZBdldPSXBFZlhfdmx2TTMwOTZIbnJvRW1qY2pXTnR1Q3gxclhWeHNyTXFlMWlOSVFtMEluWE02Q3dXeTM3dENMQndYRHNKcHFBWjZ5djdsODBaa2VDQW9lY2Fucy1wQm5jMEFrZGk1WGtJREQtM29NYXlaUjV2U3ZCRlJLRmZwQVMtSjFleFpmUWZndWtuWVQybWFKNGs?oc=5",
+      "past_days": 30,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Critical_Infra",
+      "title": "FBI: Ransomware Still a Top Threat to Critical Infrastructure - govtech.com",
+      "published": "Tue, 14 Apr 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSUhybUlLNXB5dHhEVk0wcmJrSktzaElfNUQ3MWZzRTFFbVBXM0Y5ZFd3X3lZZ1FQODZnVmtGXzFQTTAyRVBmU3dFMnRHQlUzRDZiS0phY3JndWhTR1lYWExTcHNFaTBFZzB5bzdVaVhWLVM2OXkxOE1SYi1zMmhPWXdfd2gtSEdFVFE5STNOTF9STC16cFBvbQ?oc=5",
+      "past_days": 30,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Groups_New",
+      "title": "National cat charity on the prowl for Shetland volunteers - Shetland Times",
+      "published": "Wed, 06 May 2026 13:09:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdnJuMjFLUmtHMXZZSEtTX0Y5UVBGWkI4RDJvRXE1Y1NEVEF4dGs2Q2xxc2V3bk50TDNtZVZncVN6alVzXzJ5SGJHU2dEOFF3eXhhTFJjLVdmQ05WUV81d1hzcWN5bThLZUVrQldCOEFRMjNpZVhpRWJnc3JaVGlIejM2SHFhTnBRbGZxY0JGaGQ2UEdqazJzU2kwR1lEZUFnNE5RVw?oc=5",
+      "past_days": 30,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Groups_New",
+      "title": "US Cuba embargo 'crosses the line under international law' - University of Reading",
+      "published": "Fri, 01 May 2026 10:43:36 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQREl5VUN5d0dDZExjYkFlN1pTcDNUVWFRb3g2REVURTh1Nkw0TFBEN2hHXzh3eEtEOFlOSkhSLWtsVXI3U3R4Um5Gd2ZWeEM5ekh1VUhmcjM5S0pzWnpYODRoc21CcFg0RGFyV1ExX05JcW80NFlYeWxaTjNWWjlaS0oxQ3J3ZG9n?oc=5",
+      "past_days": 30,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Groups_New",
+      "title": "You May Have Never Heard of a Fishbone Cactus – But This Quirky, Low-Maintenance Houseplant is Surprisingly Easy to Grow - Homes and Gardens",
+      "published": "Sun, 26 Apr 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE55UFZYZXphbEpqMlhZX3VKM3JidDM2OW43MEo4MlRYQzFnLW4xeFVrVmhyRG5BZldJT0JrZGsta2hnWkNxa21ObkpOUFZzQy13cWlkTWFYTDB5cW10enZuRXVTXzNpRUFybzBMZGhuZkJJenR1VktkSkNheldLQQ?oc=5",
+      "past_days": 30,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Groups_New",
+      "title": "Cactus Announces First Quarter 2026 Results - Quantisnow",
+      "published": "Thu, 07 May 2026 03:41:15 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLUNZa2hsRlJoOE4xa19WemItd2pncEtzV0hlM282SFhWMmJvTTBYd3RXZGIwVjZjcVFZWUE0TTNnUkdRU3BtbkZvNlM5SWprWVA5QnZpTmhiR3Ffcll0WEF6aVV5WWJnTWpteDRMckR3SXNSSnJhdmJWek14M1lxTUJjZHZENEJ3NGc?oc=5",
+      "past_days": 30,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Groups_New",
+      "title": "UAE weather update: Humidity, fog and winds expected this week - Gulf News",
+      "published": "Sat, 09 May 2026 20:00:32 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN1l3eWttNzhGOTBfOURiUndkS1Nnb2tRLWlHYlFxYUkyRy0zNGRGNFVTdTBoS1l5U09Rbm9vWWJuV1hpd0JYRlZkYmIzdzZnUW5HYW93cVZhc3ZCU0ZwYTYtT1JFRFVVRGR1RE5NNEdMaUZjTW9QQkNIZ3YzejZqYVpVRHI4VGxYZ25GWU5xazZKaUp5S3paN1pVeFVoRE94RnRuSDhnYjPSAbsBQVVfeXFMUF9SYXktWFJZVmtQQ2F2Wk1EN3dwNm10YjIxRU1QTEE5NmxUVWpBUWN5dFdGTGtaRGJPMzZ5b01ZQmZQTlpJeGo1Y1o2NmItTzZfd0ppQU5CbFo5b3BqQ2lWRkNXN1NCUjNxTnpUVVJZYjg2Uzd4SWFHak9qM1plcW82cjlCNWRrOWswZjZRUGVvLTkyNFB0OGJfM2ZQMlJiLWNkQWRTV0VOaW5yblNnQmRzZHNnVHEtT1lRUQ?oc=5",
+      "past_days": 30,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Groups_New",
+      "title": "Real estate giant Cushman & Wakefield confirms cyber incident, Qilin and ShinyHunters claim attack - Cyber Daily",
+      "published": "Wed, 06 May 2026 00:43:14 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbzhKTVdFSEJNZ1JUY3pCZmpqUXZBX2lnWGtVcWk4S0NWQk1XVGIyN3c1dVFZYS0wUXVlVTRIMTEzYlNocVk1Vy1qSmN2N2pYZjFjemdmVDBaV1l0ZVNjQzZocXVBeWtaejVOVnVSQ09mVkViY3h6UW5adWoxandmelFUaGd2UDl6dmEtLWpGQmY5a0tfd3h6R2o5OGttOXo1bHVZSVE1V01rLUxLRkI0MEJkb2tiTFVva045RkhOaG4zMnNIU09kc3QyMXVSRU9fbVE?oc=5",
+      "past_days": 30,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Groups_New",
+      "title": "Lynx - Carnivore, Solitary, Fur - Britannica",
+      "published": "Fri, 24 Apr 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1iUDI3d3JOTDRnam5MZUtIOGZJMmdGTjh3Rk1NVDM5clFKcDRBVnRnZVRPS0dITGNvS2NpYzA2VmxFdmdWbUtVRklITlhZVEI4aVU0d0NBdUhXVENRNjV3VFo0QTFVYWhWNERN?oc=5",
+      "past_days": 30,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Groups_New",
+      "title": "“Seeing clearly even in the fog”: DGIST develops next-generation infrared image sensor for autonomous driving - EurekAlert!",
+      "published": "Mon, 20 Apr 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1EZVZ0T1hpYTNqTzdVV3lIcy1QbnRtNms0TjdtcW12RmZ3SGp5Q29mTFNGcUJIanBPcnlwLVNZYWxrTVo5R1VQNklYLWgwR0JteEdqQjZjcGlUSHVU?oc=5",
+      "past_days": 30,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Groups_New",
+      "title": "Is it brain fog or something more? The signs women shouldn’t ignore - The Australian Women's Weekly",
+      "published": "Tue, 28 Apr 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBLemFHNk1PUEVhTWkyWEgyZDVzQTZUZTk4ZjFDLTB0S3gwVENyVS1IZF85NFhQNUx6YlVKX2VubjNQQTd0V3dIY2xJcU81VHYzTktycDZDVm4td3hyUFpheW41WnZiUHVsdHpLb01B?oc=5",
+      "past_days": 30,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Groups_New",
+      "title": "What women need to know about brain fog and perimenopause - Glamour South Africa",
+      "published": "Mon, 20 Apr 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQS1lnYlBsZDlqUXBwYlY5Z2toYUZNWU5CLXhhdVVmZTQtVVJNSlJVN3VlYjU5N0kxRlhPMG9FTXQ4ZDdpMUJXVjJZUmtqeDZkT1pUb0ptRU9MM19ibFJ1OVlMeTRjYmt1cVBqRFRYd0F2aENmTmIzV1NpNl9HNm9ia1QtLTZSaE1ib2puWmFQcWc4NVU0NHQ2OWdSeWdlVFJpU084WlozYmNoVDZZWlZ4YUtIelR6bFVRWnBaYkxGWE5CMnpWcmFaTXZB?oc=5",
+      "past_days": 30,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Groups_New",
+      "title": "Lynx penis enlarger sleeve: a realistic guide for men exploring non-invasive options - Portal CNJ",
+      "published": "Sat, 09 May 2026 01:08:45 GMT",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNbWlSN3hkZEZQRHVMV2NwOHRBWVNtQkY3MzZYcTFEQ1FqN0x5SWhkWnJ2MEdPNTJkMGFtLUlJTEZFWFl2OFEzQkJVRlpNX0oyY2ltVDVmZnhneGw0TlI1OUZ3SDlEbV9VdUd6WlpLVS1CbWFUNlpwM01ZalQyU1FyejlkakJ0R01JREJnZEtxaXd6dG9nQ212WGFLM2xLYWhMVlFhdjVGWjNUajZZZHVEanhBbnVtclcwTW4zLVNrWUpSWkFLUTI1M1Zuel9SeUMyU0VPMG55bzY3YzNQdHJnWHRSR2JfMWRIcm1yamxaelBOMDduZjZ5N0JtWURVVlBfbU5DbUJhYk1Ba1Ny?oc=5",
+      "past_days": 30,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Groups_New",
+      "title": "Study reveals how menopause causes brain fog - fox5sandiego.com",
+      "published": "Tue, 21 Apr 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMjdOdHlYQ28zLUtISU9kQ0l3QWQtZ1VnTFd3TG1ubEFBUWNGeU15RTA0SzQ0X05XUE94eXBhLVVuS0ZwdlJUMWpkZ0FHdU02aFB6N0hxLWZtdXpKUHg2NXJ1MFBjbEw1UlAtVVJQZ1JOdkwxR3JyV3VrLXkyaGdzaEhmZXFYQUFzbHBQOXZMcWRzTFhVUjgzR21xbVZkLW9j0gGmAUFVX3lxTE1sMFVmWHNNVjZwdFk3dXp2b2R3YkpfV3RFUnNySW14bkIwa1RLSmtEYkUxTjl4aVRRQS0wdnllNmNfMjliblE2TDhDRHdXdF9qYXpiSHl2QXRqc2F6WG5GV2tDNHRXeTJTQXBaUm4td294WlZqYWNJRzJhT1FuaURUNFpBamg5azk0Ri1NTVZUZENxWFd6N1JQLUJTaFZ0anVESWc2b3c?oc=5",
+      "past_days": 30,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Healthcare",
+      "title": "Comparitech assesses healthcare ransomware decline in volume but escalates in impact, marking strategic shift - Industrial Cyber",
+      "published": "Thu, 30 Apr 2026 13:11:52 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbzN5MzM1c0kwTlJNTkw3WkNjN18tOXl4aDhZaVpLckVtQVhoNHU4R2E4MEtrZWdLUEg4aV83aDBYVGk3ZUdHNE1zSmN6V3NNd1lfSlhlaF9JY2t2aE1lVTNPdkh1QTVzWlFhU0g2c3ZjSXVIbk5SaVdsMm0zVV9EVkxoS1NKeDJUdng4ZllCTWYweG9tU1pWbE9kdHppdWFGOV9BVTRhNnNyMGoyYnZTcjRDMlFTR2NVcnJaM1BmXzBrMW8wZDd3bEpmZEpGNWl5Y0pnSVk4a3hhYUx5aVBnWA?oc=5",
+      "past_days": 30,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Incidents_UK_EU",
+      "title": "International cyber attack disrupts swathe of universities and schools - BBC",
+      "published": "Sat, 09 May 2026 01:17:55 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxZW9KSEdtMm1maTdXV181LVdFTWhUUElaMWhrd19KTUpTdW5wVXRBNmlPbXl6QkgwRjJlcW5HMFFLR01ZRTBXOXBCdml3UXpzMVNyQ09tcGlyUQ?oc=5",
+      "past_days": 30,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Response",
+      "title": "FBI and Justice Department try to rebuild after wave of resignations and firings - PBS",
+      "published": "Sun, 19 Apr 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNR2JmM0l6WUhiUlNkaW1VYVFDYkdfT2FZUG1rSnd2S3JacG5ldE9VcTd0S0pkby1xenRHSERldlNxc1AwSDRkNEhrQlpkZk52MVRfRFZEa1VKWFlSM29mSGFzQ3Z4alR0ZUFCVFhVOVZ3bXZicnZ2YzF6LS1aYXRuNXl3WF9YMlZ4N05XcnRrSWpiRGRtS2V5R25VVjlhQnBQcUh5dmw0akFYVW5yd19EdGxyWlUxQ0E?oc=5",
+      "past_days": 30,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Response",
+      "title": "FBI Dallas Brings Awareness to Transnational Repression, Urges Public to Report Incidents to Law Enforcement - fbi.gov",
+      "published": "Mon, 13 Apr 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQczRLV2ViNEJxWHlLb2tCVFNsS1JMNE01NFpWU2NteXdra290b0J1YUIxbVQ2QUJjOTMxM09TME8td1E2RlF6NlU3dWVoOGZ0NjNGNXZVdVZHaTdkdkRUV0toc29aVTlER2NZOEhYNEw3UWlqXzNoSlZKdGlhZGxuVFNOaDFKcDBvY2lQT29qcXFEUlRWbXB3U0xpeS1JV0hYRTFkYnA4TzFwQmN6YnlwdjBnMXdkRmpRbE9jZUk4XzlYSEFud19TMDhMemEzSVZIWmlHNVc4a3ktTS1sLWhvSlhjcmtRY3NpbnB3SG5PTGVFUW9XQU1Z?oc=5",
+      "past_days": 30,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Response",
+      "title": "FBI seeks public’s help after a truck driver was possibly hijacked in Brevard County - WKMG",
+      "published": "Sun, 26 Apr 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdy1lX1JJd1Jra2NsSjA2RnVNUzYwV1kya01kQTQtTnAteHpPeEF3aXZzWXRyNUpyQlFaVGtWZTAwWlJ5OEZTNUZmWDBpNVlfWmxmVFF3NEFaSUVWd3JCd2RzSGVmcWctVXR5ak9teE9FR3NxWnlMMkNLbk5HZWMxWTNBcE5RSkZhdjdGQi1mWGV2M0JOWVlkdElXMlUzSGZUVkdRRW5QRW5sWWJRVWU4d3h3SnphbjMwY3ZWZlhFWlNkSXA3cUZjVVlnbw?oc=5",
+      "past_days": 30,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Response",
+      "title": "Bongino says he planted fake details to catch ‘snakes’ in FBI - The Hill",
+      "published": "Tue, 28 Apr 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbzhZd2pXRmtlMFAwYUk2eFRVYXRVd3IzaG5vRFIyeEpKb3pTd2ZtS1p1Q2VUYXIzUE5OR1RSNjBXTVFmRHJtbHVSWmVZMGZLU1pBMkQ2RXFJT3YxZFJMWTNHTVVwYjZzd2lkWEx4YjA2aTRYaVpwTnJLbEFIbVlCRzVqVlU3Z9IBiwFBVV95cUxQM2JHT1FScUVFUlY2cmowcWlVY1ZmdlBQYVZIMnplZVNZVi1jWkFveUJMbmRobk4teS12Z292Q1MzS29MSEV1UjlwRWY0RzFzcWNOQmxIU1R4c1FoMk5wcFJCRm5sNkg4YTJjYlpTMjljOU1WeXo2enl5STljNW5OYndpUHBpcHNqV3RZ?oc=5",
+      "past_days": 30,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Response",
+      "title": "Nancy Guthrie abduction: FBI analyzing DNA recovered from her home, sources say - ABC7 Los Angeles",
+      "published": "Thu, 16 Apr 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVzEwM2VrMHdsWFM0TkVaSlNGdFlNa3pYNm1SdWhXWWJuc0M0QVY4cnYzOWJuZmM3NWoxWEc3Y1M3M1FBSTJjdF81bDQ0dzJTTF9QVWxTR0hoQW95NHlwUE5tN3dtUEJYM2hVWHFISDQ2V3BPNEFheExwcllwbTJ4cUJLd19ZY3hrdkZOamp2TUNWTkY5RlkyZ1VMU3Qtek9MTlE?oc=5",
+      "past_days": 30,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Tactics_Threats",
+      "title": "Singapore boffins get diverse SIEMs singing in harmony with agentic rule translation - The Register",
+      "published": "Tue, 05 May 2026 02:12:16 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGNlenZ0WnR2NXZfajFFQnFQVDRmU0N6d0Z2bnk0VXlNM3ltOXRjT09ES3Y5NXBIYmtpTUpMcGpvMWJRVWhyenNGRi15dGctUDhYRl9hVXN6Ul9TUnAyZXYwUkRzcXpsbjNqOWxiWDhVczB6ZWVlNlVSQTVTT2tzcXdqTnVyYVF5SVViXzNUWlNlcGZFd3VQR21ZZzRHMTJoNm9PN0djaWhudk5KX0M0?oc=5",
+      "past_days": 30,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Tactics_Threats",
+      "title": "Manufacturing absorbs 56% ransomware surge of global attacks in 2025, as RaaS, legacy OT, supply chains fuel spike - Industrial Cyber",
+      "published": "Wed, 15 Apr 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOc1N4cXR2MGtmYVZrNFhuZ3AweHlBdUVwRG5CajB2UjVHRUs0bEROUGFnd21Rby11elFEVHZGTzZteDFjLWJ0THNRakNoTFJCM21ibXBQeG9OUnNWMkllbU9ieU05OG95ZGFyWC1uNnlxQlZ2RDdPVEZKRkN5S0ZFNjRLQ0E0Y1VobFdrSFVxOGQ4MW1ycWJzbzF5S2pkdmpEcjlPNl9ERlJiaU84MzJnWUxzbjE1b3hPa09kblRkTDhvVEo5emU1S2RGSmFadldldTNOODVhSXlWVkw0M1BCVG5IazViRnc?oc=5",
+      "past_days": 30,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Vulnerabilities",
+      "title": "Critical Buffer Overflow Vulnerability in PAN-OS Exploited in-the-Wild - wiz.io",
+      "published": "Wed, 06 May 2026 12:33:26 GMT",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOThjQzR2cXh2bVRWcEcwcHA2YWZGTTczUjc1dmlKQWtsRjVzZzRLRjJ1N2hzS2twbDhiejNhNDJlVi00UEZjSWZPcjZBRUZURGttMmgzemVVWExFUmY1OEJVQVB6RG52dWRiTkl5TkFZbFJZamxZOXVtYTc5M0VPNzhsbmhSVWF1UElPa2tUME42UHBfUFlR?oc=5",
+      "past_days": 30,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Vulnerabilities",
+      "title": "Ivanti customers confront yet another actively exploited zero-day - CyberScoop",
+      "published": "Thu, 07 May 2026 21:59:16 GMT",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hajI0N3NVXzBmY3hHZzBjV21GaUZ4TC1vdy1jekNQdnVZbjV2VFJtRHM4Q0VzRUh1Wlg0ek40S2NNbkY0VXFabVktWFdiaklPZmFqT2czbmJBaVVsV3JRZXZWZVNmamVhMkNHellRbC1KdkxVVGJZ?oc=5",
+      "past_days": 30,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Vulnerabilities",
+      "title": "Critical 9.8 Weaver E-cology vulnerability actively exploited | news | SC Media - SC Media",
+      "published": "Tue, 05 May 2026 19:29:59 GMT",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWThjdURva1RSdFBmUXlSaDg2ODJtRW1oLWpYbE9qNE0zOHY4SXhVRnk5eERna3RMVFdBSFRlR3FtN3NHaFZ1aDhsM1E5bzFtQTc5ck5xLWg5VGlQelFyTU16OVlFNzFqbVoyeTVFdDdaTFFwcTd0dlNfTjdSRm8zYkJLU0FaRi10bVJqQks5dTNNc1U?oc=5",
+      "past_days": 30,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Vulnerabilities",
+      "title": "New Ivanti EPMM 0-Day Vulnerability Actively Exploited in Attacks - CyberSecurityNews",
+      "published": "Thu, 07 May 2026 16:32:43 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OM0hHOTdSNndYR1JqUkhvVTNKOVpLY2dRNDJwTkRIM0NvSkdZMDJPcmNuZXVJY2JfbUZvUS1JaWlRZG9ZbnFNVFprWnBROWl1MDhGUGNpZWw4bDlGVDdfUW9feWMtTEc4VEHSAW9BVV95cUxOV01yMS1GY0h4eVVqTXpwRlZKZk0yTWRlSmxsNmt6akdpMGx5UG9MZzhoYW41TGQyZU1aOWFTdHc5UjdvT0pfMW1pNVBrQU52cHFIRUI5ZXY0Y0RzcWNSX0J6YXptOFNxdHplbmpxMEU?oc=5",
+      "past_days": 30,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Vulnerabilities",
+      "title": "Ransomware scum, other crims exploit 4 old Microsoft bugs - The Register",
+      "published": "Mon, 13 Apr 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTXg0LUFXZDF6MVptVFlOWW53X09FUnNpamtiNDhuTkgxc0hmMTVNcFpOLWNIekl5R0x4RThZSzI1ZVJtZndnUVJOc3Q3ckx4NGVKajFTVUxuamFEbzlGU2xuZGROLXNscVJOTWNNYV9wM0Yyekg4cHVNUHpZQl94NWh1TQ?oc=5",
+      "past_days": 30,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Vulnerabilities",
+      "title": "Recent Apache ActiveMQ Vulnerability Exploited in the Wild - SecurityWeek",
+      "published": "Fri, 17 Apr 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ1lBa192TTVxQlk1OWFTSjk2ZExtYnh4QkVBTWZDYUl6N2RaUFN5aGdQR25ZQzg2VnZRSzhYaTR6NUZPa3c3enR3WmN4MERIOHhpa2pFX2phQUxDc0x1cktNcXVLalJ5YWRqR0x5NUZwUHRqbE1yR2o3a1lfd2ZjLTFZMVFPNlJxOWZhSWY4QWtzUdIBlwFBVV95cUxOaDNLZkkxcWQwdXNZVC0zcmhPLUVjZ2ktanlfMnVoS3l0UFRSN1pXU2hUZGRWV3pPQTlEMmZPeWFPaHJZeWlzMUVqS1RkUzctYkxDcnE3UWRuMk5qWmoxOXBzSUhvZ21rYlQ0Ynd1ZTN0bllmZjhfRnAxNEtVTW1kc1BhYzJfbEtwZVNWQThtd3VreE5vZDlv?oc=5",
+      "past_days": 30,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Vulnerabilities",
+      "title": "Simply opening a PDF could trigger this Adobe Reader zero-day - Malwarebytes",
+      "published": "Mon, 13 Apr 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUW5CNlVaV2M1SFZ3RUN6bnRfelFnejJmV1NValMxdGE3RjNNUldFclZOcl9FeTRobTZKRWRiNklaTzhwWksxeXdJZF9JOTZ4M2tRTWVPSUFiWUtNSUhCck43aGMxeWZmb0x4NkRuQ2ZiNXRiLTgwZmRscEdFd0RCZ0l3Z2xNcm4xcHJ1STZ0RDlWeWRYbGhJc1dTd29QX3N5YUJ6bWxKTFgzdmpM?oc=5",
+      "past_days": 30,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Vulnerabilities",
+      "title": "CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV - The Hacker News",
+      "published": "Sun, 03 May 2026 06:26:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWGM1OVM2YXpMNEtXb3gtTzgzd1N5c0Z0NXk1VGNaU2dYbm9PemRxbkoxMTUxekdqczRDMXFSVTJKLXJQSU0zT2VLa1VtbXdFWmJ0THdibWNLTXdzQ3FaUVlNbjdfNGppYV9DU1NMRzJtM1dVTlJPb3FHTV9iUTFYNkpKTlo?oc=5",
+      "past_days": 30,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Vulnerabilities",
+      "title": "A critical Palo Alto PAN-OS zero-day is being exploited in the wild - CyberScoop",
+      "published": "Wed, 06 May 2026 19:50:39 GMT",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYVdGSDdxYnVzc0t2Uk5SUDJsVUlDNVgxQlVNdzI5SkluYWhBSlVPeDNkN2RTS1JCYm1Kd1dfTVdyazNCNl9WNVNEa2JJWjJlR1FSU1Buei1Yd0hWdHRrZ2U2VHZDMmpBWVdVaTh5WXRPTnphTUtDTzlLUnJrMzR0dWFLc2p4TUhNSlBRV3ROcU94OVZSeWc?oc=5",
+      "past_days": 30,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Vulnerabilities",
+      "title": "Hackers exploit Marimo flaw to deploy NKAbuse malware from Hugging Face - BleepingComputer",
+      "published": "Thu, 16 Apr 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU2duZUU0eVFWT1c1TzEtU2VRWUVhbnJHUWtuVFUtanFVb3c1UEhNZDNOTEhBbVBzOUZyYmx0LVI5bWhqMWdCQWU1blhON3ZDNEgyVUVodFpDQ19uZnc1MW9DQklRZXJnU1J0cFU4eXFRcUpjZWUxUXZFVFg5akNLUzk1S3BzSU5ZX1JKUDRKSlppWWhjUkZCQjhhclpRbno4N2d3N0doaXV6clgtS0tPYnhwdTd4NzBDTXlJ0gHAAUFVX3lxTE5xYW9QaGpOcU1aQURSa1c3OV8xSG5YcVVtWWFBWkZDQWhCc0IyWTF5OENsYm9wSlBxTEVmWV9GZVMwWkhaVHM5amVuTGhYOTNRSmYwdjFTYkd0TjFGVFdBaWVUWlRUNWZEc2xhdjQyaDlpOFg1UUJDODFRTldMaTFFSGRFV3hybDlScWdSUVVCTlhuOTRZeEdSRGY5Rk1BVTFSYzlZUjNGRTNnZFlQbDZoNUc5d01qcEIxenEzRDlTdg?oc=5",
+      "past_days": 30,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Vulnerabilities",
+      "title": "Adobe issues emergency fix for Acrobat Reader flaw exploited in the wild (CVE-2026-34621) - Help Net Security",
+      "published": "Mon, 13 Apr 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNalBYODZnMlJFT3RGdzBwX0d5RzFIVng5NzJrQkNmdnlMYjNkaXgwS1BVblVjN0lEZzZTUFF4RVhiS3pTcjZXMGtUMmRMRzk4bW0tTWJDZ0dycjhWM0ZXR25zd2dRQzlFOUUxN3pfczkzbWJrR09idHZsRGFYSUhaQm02X1ZsbTZXc2U5RkN3c1otekpxc2t0RA?oc=5",
+      "past_days": 30,
+      "source": "google_rss"
+    }
+  ]
 }
