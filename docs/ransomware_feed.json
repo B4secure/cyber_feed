@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T08:38:19.216712+00:00",
+  "generated_at": "2026-05-13T11:07:26.131123+00:00",
   "lookback_days": 1,
   "run_type": "Daily run",
   "feed_type": "ransomware",
@@ -9,14 +9,6 @@
       "title": "Foxconn Ransomware Attack Shows Nothing Is Safe Forever - WIRED",
       "published": "Tue, 12 May 2026 21:52:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeUpEZnZQS2ZtWGFqa1I1Z0hoR0I0YUdHZXZsZFR5c2ZUM3ZZN3JJSkJIZmxwdGs0anNxMHE1Y3RlbDZONkRZd2o4S3RlZmNOWmkxREQ0OVVBekJuMURQbHRUQjVPaklXY0RrMU9admZrRHh0M2NXamFuZmlUWWhQYW52ZEM0cm14V3pXcA?oc=5",
-      "past_days": 1,
-      "source": "google_rss"
-    },
-    {
-      "search_name": "Ransomware_Activity",
-      "title": "Canvas hack: Company pays criminals to delete students' stolen data - BBC",
-      "published": "Tue, 12 May 2026 10:31:23 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BajhBQ1hESkkzSktfUHBjemFrMkhjaHJidVdGckM2YUJUMUtBODBmSzJMWTZJWHlMSFNSNENvQzJINWxNbEdKRkk5TTFfZ3pINUZSNlpJUGpHQQ?oc=5",
       "past_days": 1,
       "source": "google_rss"
     },
@@ -46,9 +38,9 @@
     },
     {
       "search_name": "Ransomware_Activity",
-      "title": "School Learning Company Reaches Deal with Hackers in Ransomware Attack - Newsradio WFLA Orlando",
+      "title": "School Learning Company Reaches Deal with Hackers in Ransomware Attack - 1290 WJNO",
       "published": "Tue, 12 May 2026 13:33:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbVZ0V0QtS3ExRF9mUkJXTHRmRTJ6NkdhaU92dkVWR2FtVW9Jam9SUzZKdFc3bDlraG4tT1oxLVJWUk1HS1RYQ2owazZ3ZFBmbkRCbEJMTEtTMTVMZ3AyM1Bsd1ZCUWZoa2V2NGFvQ1Jtb3MwSWZMcWR0RXFTeFF1eU9xdkhlVnNGM1NfajQ5VGZIeVo3Y1d5VjhseF9wNnRlcWNwYXZnS2kwd2lJeDhmRlVDblhTd1hrZ0tPOTBJUGhjOHFJMXk4OVBtc1ZhVjNYRnE0dEZkakVUQzQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTHF3OUhrNjhDNkNVeW1UVnhra1pZbGdOT0tCS2ZVZVZoRlpIU3h0Ul8wZXBjeHFPdVg2cnkzeEtyU1RKeG5TdzBtQ0RzSTAtaEd1dlFoTVByXzdPNnJKRUZWa0xZcGhRdXd2emtRbmZ1TUR5N1p0MU1FeERnOE5VcHVvbTZKQUxDTExlQ0xwNDd6TFZ1ME5qbEhfM0psdG1ueUtNY3hlUFM5NVpPb3NKeVVLRnJvTDhQakp1T0swWHZTNHVtUjdhT2ZEdURFeGZQMXc?oc=5",
       "past_days": 1,
       "source": "google_rss"
     },
@@ -57,14 +49,6 @@
       "title": "Cactus Announces Board and Executive Leadership Transitions - Stock Titan",
       "published": "Tue, 12 May 2026 21:15:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWm9YVk50QnNzS2JlcFRheTBQaENQOWpGSmtlTW92VmtCZ0hqdW1BM2JjYmx1NEVxYUhlSFprTlRFYS10dWVGM1J1c1h1aFY0T1Q2UUtTZkFqMHF3N2xtMXN3M3lhUm0tOHE1dXp6QURUT05FNVFHMHlRWEExLTRwT2hxVjVKZmJPQjZxd3lhM3VCVURCLWNXdGdxTk9laEtfX2Fn?oc=5",
-      "past_days": 1,
-      "source": "google_rss"
-    },
-    {
-      "search_name": "Ransomware_Groups_New",
-      "title": "Self-driving cars struggle to see at night or in fog – but imitating the human brain can make them safe - Yahoo Autos",
-      "published": "Tue, 12 May 2026 09:47:28 GMT",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb2pBcjhIU0Y3eHEzUVl5TEhsSXhPbUFzYTRlWjFFN1VxMmRmWnRIQlMyTWhWZEZfR3VMa1NWSk5lNU5vZ2FHYkdURHdFYWZmRk9TZ3h2VHo5eDFjSGlpNXVabk9CNlM3d0plNlFTTkFUd2lZSXM0azd4cWJlU3FGSzN4cXBJaWhQNm9DY3czWnZPM1pzS1p0Y2FwbHNJQQ?oc=5",
       "past_days": 1,
       "source": "google_rss"
     }
