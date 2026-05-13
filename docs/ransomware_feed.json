@@ -1,46 +1,70 @@
 {
-  "generated_at": "2026-05-12T08:31:07.692501+00:00",
+  "generated_at": "2026-05-13T08:38:19.216712+00:00",
   "lookback_days": 1,
   "run_type": "Daily run",
   "feed_type": "ransomware",
   "articles": [
     {
       "search_name": "Ransomware_Activity",
-      "title": "Darktrace Commentary on Canvas Ransomware Attack - iTWire",
-      "published": "Tue, 12 May 2026 06:21:40 GMT",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdThQNjJhS0tmYXNNVC03dGxsN3FsbkpvdTB1V3BjT1gzYlNveTAzYW1uYVRFUGpQdGhnVTlfLWhwd0ZpckpRNGN4X21LZ3dmSTZQamZ3Y0laS2pVWDM4bWxoLUR0ejNwYXRfNllMWlFSTDF6Q1FQd2tRVkNTTGZaX0prM0haQzdQYzdtbkg2aFNxcnlPWDJzUFRGWFg?oc=5",
+      "title": "Foxconn Ransomware Attack Shows Nothing Is Safe Forever - WIRED",
+      "published": "Tue, 12 May 2026 21:52:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeUpEZnZQS2ZtWGFqa1I1Z0hoR0I0YUdHZXZsZFR5c2ZUM3ZZN3JJSkJIZmxwdGs0anNxMHE1Y3RlbDZONkRZd2o4S3RlZmNOWmkxREQ0OVVBekJuMURQbHRUQjVPaklXY0RrMU9admZrRHh0M2NXamFuZmlUWWhQYW52ZEM0cm14V3pXcA?oc=5",
+      "past_days": 1,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Activity",
+      "title": "Canvas hack: Company pays criminals to delete students' stolen data - BBC",
+      "published": "Tue, 12 May 2026 10:31:23 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BajhBQ1hESkkzSktfUHBjemFrMkhjaHJidVdGckM2YUJUMUtBODBmSzJMWTZJWHlMSFNSNENvQzJINWxNbEdKRkk5TTFfZ3pINUZSNlpJUGpHQQ?oc=5",
+      "past_days": 1,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Activity",
+      "title": "Ransomware sector reconsolidating as Qilin, LockBit, and The Gentlemen expand influence in Q1 2026 - Industrial Cyber",
+      "published": "Tue, 12 May 2026 14:02:06 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeFF0V1ktVzF5RzFqY09XdGxGYTVoX0VZeVlzM1dCQklPamxneUx0THpIUnItQjljR1VZR2dyRl9GNVVWNXFuNlVmNUNKYTQ2RWtIRnVYR0dHT2pwakREMkxhenNSR05RNUpmRTB2dERES2toNzRTQngzVFBJNHNsRzN1ak1fS254d2VKZ2ZjS3F2Y3MxOUNlTWg1YnZkdUpZWWNWbU9MOHcyaEpPWWltdjRyWnc3MEZTNlIxSjFZS3FlazBzVHp1Z1hmaGR3RG9p?oc=5",
+      "past_days": 1,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Activity",
+      "title": "West Pharmaceutical warns of ransomware attack impacting business operations - The Record from Recorded Future News",
+      "published": "Tue, 12 May 2026 19:13:07 GMT",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORG9yc3A0TDh2R2d4c29fbG9ZeC01WXlwakFSd0FzNmpvZUFBaUU0bVU0WXNvbEdvaWtZOGdLLVZlTllBczNKdHZhZ3l5M2dnVGZ2SlRSV1c1N0g0WWFSVlJmWm9PVnNEUU9JV1lxcEFTdU04bmpERzYzZUk0QW1CSXFXZVFUYU51TlY0VWZkSGJGMzRYUnc?oc=5",
+      "past_days": 1,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Activity",
+      "title": "Canvas hacked: After Canvas Instructure cyberattack ransomware agreement reached, personal information could still be at risk - ABC7 Chicago",
+      "published": "Wed, 13 May 2026 00:41:54 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQ2c4NDFpak5zY0NqMHBuYzBJZkhxZUVQRHBkb1k1dXRfc2NnbVFjUXZSTzVkUjQ4ZkVaQ1E2U0lMTm5vcEV0VXNQVFJTYy1hXy1QbnJTN2psZUtIRWlIQVEwYXFGUVNzRW5NNEU4Q3BBeDloU2hNOXFmNWU2aVJLQlVTTUV0SzJlN2JZeERmdm9RMTkyNF9wUW40Wi14U0diRVB1eHlaZkRxQ3ExbXh5OWVOX3ViaF96aXRFLXNHN1hSM2dmQ2toYVViQnpSb2NXMFhN0gHYAUFVX3lxTE93a1pxYThiZjRNNE5ueEtBYVIycXJXczJJOXFpNENoWFlvSzdEckI5bkE5M1lnWmwycVFqSXpSMnhfeHFzSkJzVkVVMkU5cmx6SmExeXo2RjQwZkxiaHg4dFNSSWtyRTZVSVFieTVxUmlaWlh5WDZidm1kdDFSTXU4ZVp3Z3o4dDJkNFF3UjJtSklWWnVWZTlaOFVlNGE4TUFlTlMxZklBYzJvdU9jLVI0ZHVWTlBGX1VZZXl6aWJ0OTh1SjVrOXNVU0ZDdjlTd2ZPU3g3dVFvMg?oc=5",
+      "past_days": 1,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Activity",
+      "title": "School Learning Company Reaches Deal with Hackers in Ransomware Attack - Newsradio WFLA Orlando",
+      "published": "Tue, 12 May 2026 13:33:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbVZ0V0QtS3ExRF9mUkJXTHRmRTJ6NkdhaU92dkVWR2FtVW9Jam9SUzZKdFc3bDlraG4tT1oxLVJWUk1HS1RYQ2owazZ3ZFBmbkRCbEJMTEtTMTVMZ3AyM1Bsd1ZCUWZoa2V2NGFvQ1Jtb3MwSWZMcWR0RXFTeFF1eU9xdkhlVnNGM1NfajQ5VGZIeVo3Y1d5VjhseF9wNnRlcWNwYXZnS2kwd2lJeDhmRlVDblhTd1hrZ0tPOTBJUGhjOHFJMXk4OVBtc1ZhVjNYRnE0dEZkakVUQzQ?oc=5",
       "past_days": 1,
       "source": "google_rss"
     },
     {
       "search_name": "Ransomware_Groups_New",
-      "title": "Neurologist Shares Simple Ways to Keep the Brain Healthy - TODAY.com",
-      "published": "Mon, 11 May 2026 15:14:05 GMT",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaDRSZzNKTC0ycENBRm1XSnNBc1hGOTlaMFNnNTJLNDY0RmV3WmQzMXhsTW5SUzFhUHVIV3d5MVNCSVg1RUJGS05GWlFzRXVFbnYwTVBUaWZyOXo1SXNQbElfTWhVbHJWdkM0bFhTVWIzU09yV3lWN2IxazRaS0VDam8za28wQ0lvMkpWcHpodUZOckxvTGlPSlJKbkZqYWtsNU82cEF3?oc=5",
+      "title": "Cactus Announces Board and Executive Leadership Transitions - Stock Titan",
+      "published": "Tue, 12 May 2026 21:15:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWm9YVk50QnNzS2JlcFRheTBQaENQOWpGSmtlTW92VmtCZ0hqdW1BM2JjYmx1NEVxYUhlSFprTlRFYS10dWVGM1J1c1h1aFY0T1Q2UUtTZkFqMHF3N2xtMXN3M3lhUm0tOHE1dXp6QURUT05FNVFHMHlRWEExLTRwT2hxVjVKZmJPQjZxd3lhM3VCVURCLWNXdGdxTk9laEtfX2Fn?oc=5",
       "past_days": 1,
       "source": "google_rss"
     },
     {
       "search_name": "Ransomware_Groups_New",
-      "title": "UAE weather: Chance of fog; temperature to reach 37°C in Abu Dhabi, Dubai - Khaleej Times",
-      "published": "Mon, 11 May 2026 14:33:10 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16U0pfanhIdU84dGxMMmpMYmx4T1M0cGVLUUVjX3NOZ3JMRjRkVGpDWWxxdlNUODFYQ2YwWDN1ZVpTVE14VHdVOG1jZzVHVjFMam1WQXlCUVRqNTh2MXBqeHJn0gFqQVVfeXFMTm40WkxMeUFyMFlCOUxVaGlmZnc0S25yZndtWWI2UnJfcnFpYU93c0xleEJ0WGNTbFNUaGtaRVhieTl2S2I5Mnk2aE1lbGY3d3BGWnYwaUFMMTRaS09SVnc3bjJSOUplUGpiZw?oc=5",
-      "past_days": 1,
-      "source": "google_rss"
-    },
-    {
-      "search_name": "Ransomware_Tactics_Threats",
-      "title": "Google spotted an AI-developed zero-day before attackers could use it - CyberScoop",
-      "published": "Mon, 11 May 2026 13:01:25 GMT",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaDVzZm1PdzJfMzBDV0JmT3NxQVFPeFkwNHdBTW1EUDJqS2FwMlpha0xSOTItOW9WblVQektWZHZjRDg5Q2NQQlZEaUMzUFlIMU1Pc0l6V21Sa2N2aFpERklBNVA3YVN6QzVXWkZCa1QyVEhxXzJfbHFtUk5Ib3ZFbzVGczBZZEpjT24tWU42bw?oc=5",
-      "past_days": 1,
-      "source": "google_rss"
-    },
-    {
-      "search_name": "Ransomware_Vulnerabilities",
-      "title": "Google catches “first AI-assisted zero-day” as well as autonomous Android malware - Cybernews",
-      "published": "Mon, 11 May 2026 16:37:22 GMT",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtSEoyVGVWcGZRYTRENFNkTjN4V0dpZFU1N0k1X2RuTnh4Yzl0UmRBbThOSEhpWDdRRFJORnI4UzV6VFNDa3RDa21ualFTYTJuRl9JZGpOV2VQbGRoOEZ1TEtmQ0ZSNTJUdDhFNnctYTNXVXc?oc=5",
+      "title": "Self-driving cars struggle to see at night or in fog – but imitating the human brain can make them safe - Yahoo Autos",
+      "published": "Tue, 12 May 2026 09:47:28 GMT",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb2pBcjhIU0Y3eHEzUVl5TEhsSXhPbUFzYTRlWjFFN1VxMmRmWnRIQlMyTWhWZEZfR3VMa1NWSk5lNU5vZ2FHYkdURHdFYWZmRk9TZ3h2VHo5eDFjSGlpNXVabk9CNlM3d0plNlFTTkFUd2lZSXM0azd4cWJlU3FGSzN4cXBJaWhQNm9DY3czWnZPM1pzS1p0Y2FwbHNJQQ?oc=5",
       "past_days": 1,
       "source": "google_rss"
     }
