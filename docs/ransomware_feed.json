@@ -1,54 +1,38 @@
 {
-  "generated_at": "2026-05-13T11:07:26.131123+00:00",
+  "generated_at": "2026-05-14T08:31:11.013657+00:00",
   "lookback_days": 1,
   "run_type": "Daily run",
   "feed_type": "ransomware",
   "articles": [
     {
       "search_name": "Ransomware_Activity",
-      "title": "Foxconn Ransomware Attack Shows Nothing Is Safe Forever - WIRED",
-      "published": "Tue, 12 May 2026 21:52:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeUpEZnZQS2ZtWGFqa1I1Z0hoR0I0YUdHZXZsZFR5c2ZUM3ZZN3JJSkJIZmxwdGs0anNxMHE1Y3RlbDZONkRZd2o4S3RlZmNOWmkxREQ0OVVBekJuMURQbHRUQjVPaklXY0RrMU9admZrRHh0M2NXamFuZmlUWWhQYW52ZEM0cm14V3pXcA?oc=5",
+      "title": "Canvas Owner Reaches Agreement With Cybercriminals After Ransomware Attack - Infosecurity Magazine",
+      "published": "Wed, 13 May 2026 14:30:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaGUyNnZ0TzBrNmQwSVhreE9OeVdTcjQtbTlnYnZfcExfcWp0TWIzeGo2RU9GVXVHZVQ4WDM5SDZ2VUp6TkpWb0JBdnlTV1kzYXNiX0xGYS0yOXpCV0VnNGVCbkRxU2s5UWVmQlczZi1iVDRhS1ZTbnlza3pPMkVuVg?oc=5",
       "past_days": 1,
       "source": "google_rss"
     },
     {
       "search_name": "Ransomware_Activity",
-      "title": "Ransomware sector reconsolidating as Qilin, LockBit, and The Gentlemen expand influence in Q1 2026 - Industrial Cyber",
-      "published": "Tue, 12 May 2026 14:02:06 GMT",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeFF0V1ktVzF5RzFqY09XdGxGYTVoX0VZeVlzM1dCQklPamxneUx0THpIUnItQjljR1VZR2dyRl9GNVVWNXFuNlVmNUNKYTQ2RWtIRnVYR0dHT2pwakREMkxhenNSR05RNUpmRTB2dERES2toNzRTQngzVFBJNHNsRzN1ak1fS254d2VKZ2ZjS3F2Y3MxOUNlTWg1YnZkdUpZWWNWbU9MOHcyaEpPWWltdjRyWnc3MEZTNlIxSjFZS3FlazBzVHp1Z1hmaGR3RG9p?oc=5",
+      "title": "Apple Supplier Foxconn Hit With Ransomware Attack - PYMNTS.com",
+      "published": "Wed, 13 May 2026 15:53:52 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaXFPc2VLY1NBaENsN1hBTkFpdW94UFFLak1rWk01R2pubW93RF9GeTBYZ3ZYX1hyNWVmVXZBMjAtdjBJaE5aSmRWbkJEZFo3TmpnaVBXSXh3UTdhM24walJYZDRaWUJfeHZpc3J2SFh2ZXdqdmFjWVRacnJ2MEgyNmZ4amloUWprSjF1VVhydEpSWWQ3TDJ5d3RFRzNWTUJVbV9Z?oc=5",
       "past_days": 1,
       "source": "google_rss"
     },
     {
       "search_name": "Ransomware_Activity",
-      "title": "West Pharmaceutical warns of ransomware attack impacting business operations - The Record from Recorded Future News",
-      "published": "Tue, 12 May 2026 19:13:07 GMT",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORG9yc3A0TDh2R2d4c29fbG9ZeC01WXlwakFSd0FzNmpvZUFBaUU0bVU0WXNvbEdvaWtZOGdLLVZlTllBczNKdHZhZ3l5M2dnVGZ2SlRSV1c1N0g0WWFSVlJmWm9PVnNEUU9JV1lxcEFTdU04bmpERzYzZUk0QW1CSXFXZVFUYU51TlY0VWZkSGJGMzRYUnc?oc=5",
+      "title": "After Nevada's ransomware attack, security upgrades have been 'game-changing,' says state CIO - StateScoop",
+      "published": "Wed, 13 May 2026 18:18:13 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNktkbS1vNkw0MEQxbkR6UXdPbkdsUXBMMmRwOHg3ajAtRmYtbkxhQm1FMm9XQkxicWtSbS1oc2pRUHNGSjN5Q2lsYkk4M0dvNndweU1sdTNnT3V4bFBkeXpHay1MWHM3UVB5M0c3QmJvb0ZfVlhhM01kZkFaM1hHY3JIdnd6ZVE2NjVheU1NRVVMajFROG5RWWhqNGJoY1Nmem9XSXVYeHUyY1ZMLTdmMDBmdGVFTlY3Ymc?oc=5",
       "past_days": 1,
       "source": "google_rss"
     },
     {
-      "search_name": "Ransomware_Activity",
-      "title": "Canvas hacked: After Canvas Instructure cyberattack ransomware agreement reached, personal information could still be at risk - ABC7 Chicago",
-      "published": "Wed, 13 May 2026 00:41:54 GMT",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQ2c4NDFpak5zY0NqMHBuYzBJZkhxZUVQRHBkb1k1dXRfc2NnbVFjUXZSTzVkUjQ4ZkVaQ1E2U0lMTm5vcEV0VXNQVFJTYy1hXy1QbnJTN2psZUtIRWlIQVEwYXFGUVNzRW5NNEU4Q3BBeDloU2hNOXFmNWU2aVJLQlVTTUV0SzJlN2JZeERmdm9RMTkyNF9wUW40Wi14U0diRVB1eHlaZkRxQ3ExbXh5OWVOX3ViaF96aXRFLXNHN1hSM2dmQ2toYVViQnpSb2NXMFhN0gHYAUFVX3lxTE93a1pxYThiZjRNNE5ueEtBYVIycXJXczJJOXFpNENoWFlvSzdEckI5bkE5M1lnWmwycVFqSXpSMnhfeHFzSkJzVkVVMkU5cmx6SmExeXo2RjQwZkxiaHg4dFNSSWtyRTZVSVFieTVxUmlaWlh5WDZidm1kdDFSTXU4ZVp3Z3o4dDJkNFF3UjJtSklWWnVWZTlaOFVlNGE4TUFlTlMxZklBYzJvdU9jLVI0ZHVWTlBGX1VZZXl6aWJ0OTh1SjVrOXNVU0ZDdjlTd2ZPU3g3dVFvMg?oc=5",
-      "past_days": 1,
-      "source": "google_rss"
-    },
-    {
-      "search_name": "Ransomware_Activity",
-      "title": "School Learning Company Reaches Deal with Hackers in Ransomware Attack - 1290 WJNO",
-      "published": "Tue, 12 May 2026 13:33:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTHF3OUhrNjhDNkNVeW1UVnhra1pZbGdOT0tCS2ZVZVZoRlpIU3h0Ul8wZXBjeHFPdVg2cnkzeEtyU1RKeG5TdzBtQ0RzSTAtaEd1dlFoTVByXzdPNnJKRUZWa0xZcGhRdXd2emtRbmZ1TUR5N1p0MU1FeERnOE5VcHVvbTZKQUxDTExlQ0xwNDd6TFZ1ME5qbEhfM0psdG1ueUtNY3hlUFM5NVpPb3NKeVVLRnJvTDhQakp1T0swWHZTNHVtUjdhT2ZEdURFeGZQMXc?oc=5",
-      "past_days": 1,
-      "source": "google_rss"
-    },
-    {
-      "search_name": "Ransomware_Groups_New",
-      "title": "Cactus Announces Board and Executive Leadership Transitions - Stock Titan",
-      "published": "Tue, 12 May 2026 21:15:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWm9YVk50QnNzS2JlcFRheTBQaENQOWpGSmtlTW92VmtCZ0hqdW1BM2JjYmx1NEVxYUhlSFprTlRFYS10dWVGM1J1c1h1aFY0T1Q2UUtTZkFqMHF3N2xtMXN3M3lhUm0tOHE1dXp6QURUT05FNVFHMHlRWEExLTRwT2hxVjVKZmJPQjZxd3lhM3VCVURCLWNXdGdxTk9laEtfX2Fn?oc=5",
+      "search_name": "Ransomware_Tactics_Threats",
+      "title": "Pulling the Plug: Why Internet Shutdowns Fail as Cyber Defense - OODAloop",
+      "published": "Wed, 13 May 2026 15:04:23 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQXpoMjZFeHZwTUhfUGdrbUhmSTRlbHFnV1VXMWpscGdUV3JsanRlNVFMWjktX0xwaHdBTWlZTlZCTTRCSERKbEVHVzg2Y0xXVmZ1MS1DTUI4UzFlN1dEWVVJMnZid2gzcFRnbnF6ajh1akV3RTZhbnZTTEp1dVJ0WmlhSG5QbjgyQldRaGhrRWxsTFo0WF9kRVk2SkdodzFCT1NwS2JyYlpDOU8tcUtpMENkZ2tuNWc?oc=5",
       "past_days": 1,
       "source": "google_rss"
     }
