@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-05-14T08:31:11.013657+00:00",
+  "generated_at": "2026-05-15T08:43:32.739571+00:00",
   "lookback_days": 1,
   "run_type": "Daily run",
   "feed_type": "ransomware",
   "articles": [
     {
       "search_name": "Ransomware_Activity",
-      "title": "Canvas Owner Reaches Agreement With Cybercriminals After Ransomware Attack - Infosecurity Magazine",
-      "published": "Wed, 13 May 2026 14:30:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaGUyNnZ0TzBrNmQwSVhreE9OeVdTcjQtbTlnYnZfcExfcWp0TWIzeGo2RU9GVXVHZVQ4WDM5SDZ2VUp6TkpWb0JBdnlTV1kzYXNiX0xGYS0yOXpCV0VnNGVCbkRxU2s5UWVmQlczZi1iVDRhS1ZTbnlza3pPMkVuVg?oc=5",
+      "title": "News - Ransomware attack on American Lending Center compromised over 123K individuals - teiss",
+      "published": "Thu, 14 May 2026 22:51:34 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObnIwQkVHV3JkTk83UGVoZkF3Q1JzMzJ1TUxpS19OeDIxSlpaUEVJVmh4M3Z2bktVclVSckNkMGhyRllOa3d5UG1oRGhZQXNPNXd1aXJheGR5NkxDa2IyRUtSWXRZSHVFTmpDeEJpQmpPZEZfVF9JQVQ3enFNN19aV0dqOXc3Wnc4aUpYMmhwRkpWaG5ETjNWVE0zQktPX0FEeEFVOExvVk1MQ1l2dHRXVGlJQQ?oc=5",
       "past_days": 1,
       "source": "google_rss"
     },
     {
       "search_name": "Ransomware_Activity",
-      "title": "Apple Supplier Foxconn Hit With Ransomware Attack - PYMNTS.com",
-      "published": "Wed, 13 May 2026 15:53:52 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaXFPc2VLY1NBaENsN1hBTkFpdW94UFFLak1rWk01R2pubW93RF9GeTBYZ3ZYX1hyNWVmVXZBMjAtdjBJaE5aSmRWbkJEZFo3TmpnaVBXSXh3UTdhM24walJYZDRaWUJfeHZpc3J2SFh2ZXdqdmFjWVRacnJ2MEgyNmZ4amloUWprSjF1VVhydEpSWWQ3TDJ5d3RFRzNWTUJVbV9Z?oc=5",
+      "title": "West Pharmaceutical starts restoring operations after ransomware attack - Cybersecurity Dive",
+      "published": "Thu, 14 May 2026 15:23:43 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTkRPeVZ0NkZFVEZlVDhuWFFLRzlnTUtrTFM5cnI1ZnJlOFFVWVg5VDBCTHpmc1E1NlZNZnJCVjg0VWE0dWpqLWhVWnE4NEhPc196Wnp3TUFDa1k5a3puZkFjeldDVnctT2tacDRZRTNMVDc5UGY2TnlYcU1jRDRoU1kyNlcyQTFfRWo4aDFNdzZUbFBDbk40WVdZUTlGejFLR2UyaU5ma0U?oc=5",
       "past_days": 1,
       "source": "google_rss"
     },
     {
       "search_name": "Ransomware_Activity",
-      "title": "After Nevada's ransomware attack, security upgrades have been 'game-changing,' says state CIO - StateScoop",
-      "published": "Wed, 13 May 2026 18:18:13 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNktkbS1vNkw0MEQxbkR6UXdPbkdsUXBMMmRwOHg3ajAtRmYtbkxhQm1FMm9XQkxicWtSbS1oc2pRUHNGSjN5Q2lsYkk4M0dvNndweU1sdTNnT3V4bFBkeXpHay1MWHM3UVB5M0c3QmJvb0ZfVlhhM01kZkFaM1hHY3JIdnd6ZVE2NjVheU1NRVVMajFROG5RWWhqNGJoY1Nmem9XSXVYeHUyY1ZMLTdmMDBmdGVFTlY3Ymc?oc=5",
+      "title": "Foxconn factories resume operations after ransomware attack | brief | SC Media - SC Media",
+      "published": "Thu, 14 May 2026 14:52:04 GMT",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOXExTTdCRFllY1MxZjlIcVlzRXRaZzFxMkpsQzdCMnUwc1pua05LMllCUzQzR3JFbW00LThKMzVXOW0yRTlobHZVaDJfTHhXTGdfU0p5ZS1ZNDBFX0ZkSW5RWlNOQy1oa2s4NDI1WWQ5RG93MVN6OFE4U21kcGM4c2Q3Uk1zZWxSNVZ6SjNIajUtZVE?oc=5",
       "past_days": 1,
       "source": "google_rss"
     },
     {
-      "search_name": "Ransomware_Tactics_Threats",
-      "title": "Pulling the Plug: Why Internet Shutdowns Fail as Cyber Defense - OODAloop",
-      "published": "Wed, 13 May 2026 15:04:23 GMT",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQXpoMjZFeHZwTUhfUGdrbUhmSTRlbHFnV1VXMWpscGdUV3JsanRlNVFMWjktX0xwaHdBTWlZTlZCTTRCSERKbEVHVzg2Y0xXVmZ1MS1DTUI4UzFlN1dEWVVJMnZid2gzcFRnbnF6ajh1akV3RTZhbnZTTEp1dVJ0WmlhSG5QbjgyQldRaGhrRWxsTFo0WF9kRVk2SkdodzFCT1NwS2JyYlpDOU8tcUtpMENkZ2tuNWc?oc=5",
+      "search_name": "Ransomware_Activity",
+      "title": "Foxconn ransomware attack sees Apple and Nvidia data stolen - Notebookcheck",
+      "published": "Thu, 14 May 2026 14:03:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb3hUQktuZ0E1UTFodGRkTVUtbEl6X3dRVFJ1U1ptYnlqR1VBN3R2d3VUVmtmWExPeXRKSk1uYUs0eGIyaDJaa0xSQ25leng5NEp6akFnaGpGQUxaRGNTWGpGS0JLRlJ0bFhmVkJNT3VNanc2bE9lY3IxWW54VThjYjYtaGJIeDlDOEc2SFlVWDRyR08xYUxMZ29UZ3VUZXR5Zy03OFV4Zw?oc=5",
       "past_days": 1,
       "source": "google_rss"
     }
