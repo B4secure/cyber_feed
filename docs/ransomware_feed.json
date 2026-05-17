@@ -1,30 +1,22 @@
 {
-  "generated_at": "2026-05-16T07:54:40.293656+00:00",
+  "generated_at": "2026-05-17T08:13:20.366931+00:00",
   "lookback_days": 1,
   "run_type": "Daily run",
   "feed_type": "ransomware",
   "articles": [
     {
-      "search_name": "Ransomware_Healthcare",
-      "title": "Ransomware Groups Claim Responsibility for Attacks on 3 Healthcare Providers - The HIPAA Journal",
-      "published": "Fri, 15 May 2026 10:09:54 GMT",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWk5IVS1JR00ydTM4WlQ1VHB1eVJVSW1KejRub1RQVEoyWV9abmlhYjYzM0VmU2tKRTNKM2JFZ2pJeWpIemtzVWVKQ0Z0VXpPNGNjUmd3S0xFV0FsQk93RmxiMlI1OHN6YVpFcU1GMW4zRFdHVzd3QVlFQmFTZXI3YXVRdHdDOElRWlZWendPdlNkNWhWZnBtMzhiT3JfZWN0TU1BYURR?oc=5",
-      "past_days": 1,
-      "source": "google_rss"
-    },
-    {
-      "search_name": "Ransomware_Response",
-      "title": "FBI offers $200K reward for former service member accused of espionage - NewsNation",
-      "published": "Fri, 15 May 2026 17:16:34 GMT",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE54cFdlVzZMNU1rS0ROcG9lc21uN2VSRlBnMXdJSlIzLVhJQ1hnM2pvbFdfR2pnVjBqWHI4cFhEV3BVTnAwaXl6Q1h6S21Jdm9uZS15QTIwZFppYTQ3VEpxOWFiMHF1YU1rX0R2ZGFWbkFfWTJoVnfSAXtBVV95cUxNNWlibFNVM1dzc0p4T0xfS29jT3VJVTVCR3hLOW10NHNYUEV2RlJjQS1fVDNzVXd2SEh5SEZtZm42NDRqVXppbFUxb2tjTjRZVnAzcDc3OFFNM0tsWDczRHB3QnppRXlmbG0xeHF2RXJ6dG1YYkU1VnRVQ0E?oc=5",
+      "search_name": "Ransomware_Groups_New",
+      "title": "Iran war: Finding steadiness in uncertain times - The Jerusalem Post",
+      "published": "Sat, 16 May 2026 19:41:53 GMT",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE53YXVWeFdKeHhUbjBHVDdnS3RUX3BJeVZoSUozZmgwT3ZXQzJfdXNGMzZQU2V2X3NBQUd3b3NDUGdpbGQ3dlVTRVowR3FOR3FtZzV1b0FtOWp4OWFtTWhxNWpjR3RNeTRvOG85MVJIeTJBQXBFUDRXZ09iMjA?oc=5",
       "past_days": 1,
       "source": "google_rss"
     },
     {
       "search_name": "Ransomware_Vulnerabilities",
-      "title": "Microsoft Warns of Exchange Server Zero-Day Exploited in the Wild - SecurityWeek",
-      "published": "Fri, 15 May 2026 12:06:53 GMT",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOU83eGxyOUdORWNCUzFxSmJWcENvWTdLeDRoTGRSdUhUWTNKTDR2cVNXOVpqazNLdGtjLTFrRXNTeXUyZ1dMZExWOWRONXgtYU5CN3RndlRYVzJMd3MyOG9MaWhLTzdqbFdNTFgtVzh5enQ1b0lyLXo0WUZWblhCaHQ5bXZoZ0N5RGtEUjY5UFlfazd2MjNEMmRZZ9IBoAFBVV95cUxOeTI0Z3lsV1NsY0c5b1V5YVlFUHBmMV9BcEM4RXdiejlJWV9WTHlDYkVXR1ZIQjBydkUzU3RqQi1PQ0I2bEJKMGQ0TXl0ZjlOS29tX1R1NDZkaEFpOE1ZTHRka2tKSWJoYUhfczQ4VzlUeEttUVpwTGNZX0lfU0RKZkVCZkRNTlRWSjB1WnpYRDFicVhNQldneDVGSFlZT2Ix?oc=5",
+      "title": "Critical Microsoft Exchange Server Vulnerability Actively Exploited in Attacks - CyberSecurityNews",
+      "published": "Sat, 16 May 2026 10:08:55 GMT",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVEVUb05Fbmd1dEdMU2RudVFoV0dHYmMzMS1IMVpFVlNJLUlwMkxOWHhHWEkzLUJtaTV5Vk0tYTFpT1JhU2ZkVXZpNERQNklkYWpLQ3NBLXozNUxuNXZCMTF5VDFHd3RwWjdkQzZFdGlxUzQxVS1yazYxR2hHSWxhWDhISC1tV0HSAYwBQVVfeXFMTjl3RTIxTmVYVGhKSVdEWVBNdHVWT1dFbkdwRkY3OXpNdm5xVC0tRjN1N1k4dWNkNkNneEJxZzlIbHpKamZnYUQ0cGVJaklJWHl1OFRGUzRQQ0tNLWIwdDVGbTFSdDE3WUtaQTJPR2VwQkNoanVTWUNuQnA0SGtKMU9sWVg1ZDk3M0VPb2Q?oc=5",
       "past_days": 1,
       "source": "google_rss"
     }
