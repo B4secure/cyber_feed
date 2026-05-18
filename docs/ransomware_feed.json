@@ -1,22 +1,38 @@
 {
-  "generated_at": "2026-05-17T08:13:20.366931+00:00",
+  "generated_at": "2026-05-18T09:45:55.809977+00:00",
   "lookback_days": 1,
   "run_type": "Daily run",
   "feed_type": "ransomware",
   "articles": [
     {
+      "search_name": "Ransomware_Activity",
+      "title": "Foxconn Suffers Ransomware Attack With Important Project Files From Apple Stolen - ilounge.com",
+      "published": "Mon, 18 May 2026 04:51:36 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOG5DelA3dElSaTBEX3ZFV3JRcUV5N1FYbEJtbXpHallOOEVhNF9aXzFzWVhSMjRsM1lyVkZvMjhja3ZVZTBDTHJPTkM0TUg0UXJ3SlNHWFhHWVVRYXRqNnlKc0c1bkxON2MtMFl4TzFBMmJrTXB5Mk1YYWU2bmwyWGFBaEVXVXlZS0Zyb3BLaGptTTQzUmlZdS12LUhFdnYzNG1PQnNtdzRYb1BpYlE?oc=5",
+      "past_days": 1,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Critical_Infra",
+      "title": "State-backed ransomware activity raises new concerns over escalating threats to OT, critical infrastructure operations - Industrial Cyber",
+      "published": "Sun, 17 May 2026 12:46:44 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOYmFmQ0FRaFhYN0FVMjJoV2s5anJVMUMtaXphVmhaSS0tS1FqRlhZZXJDR09ZU1VRUzNYclpDZHdvbFZGR1FRMjgtcEIzTVg5RnlKTmpqcTlHRHgyanluUjRzOXRVSm52U3VDS3owSjhmWG1hVWJuVnpfaU02NGdDM3pfbFBsV2F6eEd2Z09XNHkteW5GOE9PTXNyaEhxU29ZWEtQQzd4MzZWd1JLUU1GZW4tRzd2Ulg1Q2RMZmR1a2Z1SkhVaUpNenhzbkc3WElVWmVZVzJ5SkRsWmtKcnE0dWhKX0xJQXZGSHc?oc=5",
+      "past_days": 1,
+      "source": "google_rss"
+    },
+    {
       "search_name": "Ransomware_Groups_New",
-      "title": "Iran war: Finding steadiness in uncertain times - The Jerusalem Post",
-      "published": "Sat, 16 May 2026 19:41:53 GMT",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE53YXVWeFdKeHhUbjBHVDdnS3RUX3BJeVZoSUozZmgwT3ZXQzJfdXNGMzZQU2V2X3NBQUd3b3NDUGdpbGQ3dlVTRVowR3FOR3FtZzV1b0FtOWp4OWFtTWhxNWpjR3RNeTRvOG85MVJIeTJBQXBFUDRXZ09iMjA?oc=5",
+      "title": "Lynx attacks on livestock see surge in Chitral - Daily Times",
+      "published": "Sun, 17 May 2026 21:50:16 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcVR5SjVSZ1VYYmRfZzBOYnlYLUtiWnYzdjk5V3NxYzAzMkJ0cjd3V2tQdmpuY3RPZ29XcW12My1uci1EbVdpRGhwOXVUdUZUclI2bE1WSHhLSnhyLWxDLUtKVzZheVM5UEhDUGpxT2c0bl9nQzMtREFLZ1U3TmQxeWZrV3UxVUdC?oc=5",
       "past_days": 1,
       "source": "google_rss"
     },
     {
       "search_name": "Ransomware_Vulnerabilities",
-      "title": "Critical Microsoft Exchange Server Vulnerability Actively Exploited in Attacks - CyberSecurityNews",
-      "published": "Sat, 16 May 2026 10:08:55 GMT",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVEVUb05Fbmd1dEdMU2RudVFoV0dHYmMzMS1IMVpFVlNJLUlwMkxOWHhHWEkzLUJtaTV5Vk0tYTFpT1JhU2ZkVXZpNERQNklkYWpLQ3NBLXozNUxuNXZCMTF5VDFHd3RwWjdkQzZFdGlxUzQxVS1yazYxR2hHSWxhWDhISC1tV0HSAYwBQVVfeXFMTjl3RTIxTmVYVGhKSVdEWVBNdHVWT1dFbkdwRkY3OXpNdm5xVC0tRjN1N1k4dWNkNkNneEJxZzlIbHpKamZnYUQ0cGVJaklJWHl1OFRGUzRQQ0tNLWIwdDVGbTFSdDE3WUtaQTJPR2VwQkNoanVTWUNuQnA0SGtKMU9sWVg1ZDk3M0VPb2Q?oc=5",
+      "title": "NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE - The Hacker News",
+      "published": "Sun, 17 May 2026 11:57:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSV9qTGUzcHVaRTI5TVVWSDU3cU1vQWp0elM5ZGtQcS03SVVvV1RuVnRxZVZoTTVjS2hrN0pvNEp5QmcwV1pWZ055WUs5REhmOUYwc01LYUF5ZVpNWVA3akd2UlFjLVljaEZOUFpmeDJNaF9DTW11TzY5eDFOQm1VZ0RaTQ?oc=5",
       "past_days": 1,
       "source": "google_rss"
     }
