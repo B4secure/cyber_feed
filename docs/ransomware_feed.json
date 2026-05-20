@@ -1,38 +1,54 @@
 {
-  "generated_at": "2026-05-19T09:31:57.629457+00:00",
+  "generated_at": "2026-05-20T08:58:01.480060+00:00",
   "lookback_days": 1,
   "run_type": "Daily run",
   "feed_type": "ransomware",
   "articles": [
     {
       "search_name": "Ransomware_Activity",
-      "title": "News - Zara confirms 200,000 customers’ data exposed in alleged ransomware attack - teiss",
-      "published": "Mon, 18 May 2026 23:03:01 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZUpTbjU0M1JJcEl1Y1B0dGloamVRNTl2eW1fZENKbmVLRkdMdDFwcGozNGVJS3NWWEV3ajIwcV9GQjFCTmd2dzZhSDVJekFsejZYRWJrSUY5ZmRzalp4X19sdkplY3phNDJnZ0JGWDRXSDhLTi1Xb29rcnphdk1aTTFkSHg1a0FLY0xfXzllMm1jVVdSUmRtbS1Cc1N3WUkyU3czcEJYS2U0ZjQ?oc=5",
+      "title": "AdvancedHEALTH Ransomware Claim Includes 2.3M Patient Data Lines - TechRepublic",
+      "published": "Tue, 19 May 2026 13:17:45 GMT",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQX05vbE1ZV2hmRWRSVTRiOGpGSFBzVTJhU1BRUkp2X0pJSXNpekRyMDZhVmVBalVXYTVpWlB5TjRTSmpsdjNPU1B5Uzc5MVUtOUZEc2I5aTJnZ0Eyem5HTlpqSE5xNjJlZm9DRWY1MDJvU0o0ckFRQjZtSE9GR250eHpFLU9QUDFyeTVpajJCRVM?oc=5",
       "past_days": 1,
       "source": "google_rss"
     },
     {
       "search_name": "Ransomware_Activity",
-      "title": "Canvas paid hackers: the attack exposed why payment bans ignore operational reality - Cybernews",
-      "published": "Mon, 18 May 2026 17:31:20 GMT",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTkJrS1VyaEhkS3pIWDZ4ajdYYW9OaldvWmcwbFVSWGRoSkNzb05YSlpzT0xOdHM2LXJpOG5jMTlrN0lMTUxCQndkTV9OaURFVVNQNGRocTUwMmxzNnU0VG9zODdQU0hpSExVLVNVOExQWlFweEkyT0tnQWYtM1ZGU2RSTlFHVlU?oc=5",
+      "title": "Liberty Mutual class action claims ransomware attack exposed customer data - Class Action Lawsuits",
+      "published": "Tue, 19 May 2026 16:04:35 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcDIwb1Jrd005QlpIb09XVWRLNWh5SXVXRU1xWTV0cE5kbWNGTkZ3bE1mTER3SU1xaXJQTzRrV0I0NWpqanp1U09MZTY4UDZhaVg5OVBYSGtyOEtXd0tsa0t2cmI4RU9VUElSQXBYb2tkSXBrZUhlYVFOaHVCTFdoR19JeTlaTlp4Vk9RbVZHOF8wR2Nfb29TN0hNb3pFTmxuRzYxTWJfemZPdi1HX3Bmb19GNUZqQjFrakRaczlGdDNrUjQxaHFWMF9nVjNLRWJNWFE?oc=5",
+      "past_days": 1,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Groups_New",
+      "title": "UN panel accuses Canadian permanent resident of violating arms embargo on Libya - The Globe and Mail",
+      "published": "Tue, 19 May 2026 09:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYlMzRjNFNXNoMy02Q0U3MWY0Z0RLX18tbzhJRms5YUxXYWlkVnNuOWQzYU8yLU5VQ0RaeHM1RjNpd1dNemNmQlFWUEtEODl6V2ozUHZzX1Rnak9uVmhac2Jpd20zdHdZOFhfc0NZVFlTbHdSbmgzUUlUMTlfNk95cXBKQlc1NXMxY1c1dC12bHpBbDVHbW1iN0ZXcEI3NU1raXJUUG1OY0MtanBtMG9ISWdlX1R1Zw?oc=5",
+      "past_days": 1,
+      "source": "google_rss"
+    },
+    {
+      "search_name": "Ransomware_Incidents_UK_EU",
+      "title": "M&S profits slide after cyber attack, but retailer hails ‘progress’ - Belfast Telegraph",
+      "published": "Wed, 20 May 2026 07:54:48 GMT",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPakd5dFYxYWtQQ0ZVaUwzWTRVU3ZoSGs2S0RpRzgwajNVMWNHR0NNMnFsSnlRNU5hSGZMTDFSbXR0Qk9IcW9FWFlxeXJhY25EZHBQWjhadUt4VUp5c2hHRHdTOTd1eFBCUzRPY1J2MVUyYXA0TGdyLVdxN3lUMTB3cXlQZ1F5S0xKMGRpcEdUX3pJdWd4UTk1ZUY1OW12QTVMUy1mUkZLQ2JIQmVYeFBieGRHVzZ0Ql81REs0d0lxaEpad2IwRFQzajJ3QU9kUQ?oc=5",
       "past_days": 1,
       "source": "google_rss"
     },
     {
       "search_name": "Ransomware_Response",
-      "title": "FBI Newark Seeks Murder Suspect Now Wanted on Federal Charges - Van Nuys News Press",
-      "published": "Mon, 18 May 2026 14:45:33 GMT",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSGlqTjRmSjFXNk41VVpEU2lHSl84T0ZnWGFvRWxlOUluS1hTZl96ZVRZckRhUmszVV9PdUI1T2xZTDFCckVxM0dyLUdzUTgyXy1WdjBrX1JlY3FqRExlbUtaaE9zclJzVEFLT0NkMndqT0llT3ROa19jcGhDbEZub3M5MXY0TXVMMmIxRDNxcVdQOE5nZjJVdWdWcw?oc=5",
+      "title": "Surrey Police investigating child sex abuse allegations after Epstein files release - BBC",
+      "published": "Tue, 19 May 2026 14:45:30 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NOFlvaHo3alY2X1lySWlUZWJqczJ1SXRhZ2FGXzZmaWhqcmFYeThCUm0zRm9GS1k1b3Q4cE9QQTI0amxGSUp4NVFqNHBJeUtjeWxNaHprUU9qREZL?oc=5",
       "past_days": 1,
       "source": "google_rss"
     },
     {
       "search_name": "Ransomware_Response",
-      "title": "Zeeko Zaki Breaks Silence on ‘FBI’ Season 8 Finale Cliffhanger — Reveals What’s Next for OA - Us Weekly",
-      "published": "Tue, 19 May 2026 01:01:39 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNWRRNEhsUmJqV2trMGN6bUNHQnJRcWEzYlFzV2J4UGNUZjh0R2VOSjQ1cE1vNTlGbmxnOVgyTkpTT3kxQmZfc2RySjJqQjNZNTlaU2NpTWYxYzd2NHZPNWJJNHplTHdBTlQ2WkxaZVRxTFZtaVpSOHdKZUNJYXhyLUhoVlh3dGZ4QjV6c3dVdTNJcTFiQmxBTlhjLTJCdU5abDVhMjF2MWY?oc=5",
+      "title": "FBI Offering $500K Reward for Person Of Interest in 2017 Murder of Burlington County Mother and 6-yr-old Son - TAPinto",
+      "published": "Tue, 19 May 2026 17:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPcXF1OVpnNWhITXQyNExtUFVRZEF2TndqWHBqd0pGYkNTWEdCdzhIR0RZaGRCbWN3MU9yT0ZtSjdlejRqcGYzVUFDak1IRjB2d2ktajEtNHhQU1VDZnhxR3R0cTNPSHR6M2xXOWtYcXNWazZjenFHR0tXVGxnWGxiTVVkYjFXbk9hWTF3MG1vRGptRVE3VW9Gem05THVuYlNFdnRObEpQYUZJWUhyWWEwWXVCVWRSTTYwMjBISlc0MFhWRVJKOTFhYVlYbUxKdEdlV3RCZzN3MHBkcVJfU0pQVWxZOUV0dGYzTUVhT1M4ZXdxaEFnV045endNVll6Um1Mb0FyWjNaS0FpZ1VpS2hwRmVB?oc=5",
       "past_days": 1,
       "source": "google_rss"
     }
